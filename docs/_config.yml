@@ -1,15 +1,39 @@
-# remote_theme: "mmistakes/minimal-mistakes@4.27.3"
-
 title: "Ana Rebeka Kamšek"
 description: "Hydrogen, materials, data"
 url: "https://kamsekar.github.io"
-theme: jekyll-theme-minimal   # or jekyll-theme-cayman, jekyll-theme-slate, etc.
-markdown: kramdown
+
+# Theme setup
+# theme: jekyll-theme-minimal   # or jekyll-theme-cayman, jekyll-theme-slate, etc.
+remote_theme: mmistakes/minimal-mistakes
 plugins:
-  - jekyll-feed      # RSS
-  - jekyll-sitemap   # SEO
-# Navigation (manual for minimal theme)
-navbar:
+  - jekyll-include-cache
+#   - jekyll-feed      # RSS
+#   - jekyll-sitemap   # SEO
+
+# Minimal Mistakes settings
+minimal_mistakes_skin: "default"    # Options: air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
+
+# Site author details
+author:
+  name: "Ana Rebeka Kamšek"
+  # avatar: "/assets/img/profile.jpg" # Optional profile image
+  bio: "Researching materials for hydrogen technologies and using data science to do it."
+  location: "Ljubljana, Slovenia, EU"
+  links:
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?user=lhbwej0AAAAJ"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/kamsekar"
+    - label: "ORCID"
+      icon: "ai ai-orcid"
+      url: "https://orcid.org/0009-0008-6247-3256"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/ana-rebeka-kamsek/"
+
+navigation:
   - title: Home
     url: /
   - title: About
@@ -18,5 +42,12 @@ navbar:
     url: /research/
   - title: Publications
     url: /publications/
-  - title: Science outreach
-    url: /outreach/
+  - title: Science communication
+    url: /scicomm/
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+paginate: 5
+paginate_path: "/blog/page:num/"
+timezone: Europe/Ljubljana
