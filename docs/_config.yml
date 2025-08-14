@@ -33,7 +33,7 @@ author:
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/ana-rebeka-kamsek/"
 
-navigation:
+main:
   - title: Home
     url: /
   - title: About
