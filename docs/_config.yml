@@ -3,20 +3,16 @@ description: "Hydrogen, materials, data"
 url: "https://kamsekar.github.io"
 
 # Theme setup
-# theme: jekyll-theme-minimal   # or jekyll-theme-cayman, jekyll-theme-slate, etc.
 remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-include-cache
-#   - jekyll-feed      # RSS
-#   - jekyll-sitemap   # SEO
 
-# Minimal Mistakes settings
-minimal_mistakes_skin: "default"    # Options: air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
+# Minimal Mistakes skin options: air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
+minimal_mistakes_skin: "default"
 
 # Site author details
 author:
   name: "Ana Rebeka Kamšek"
-  # avatar: "/assets/img/profile.jpg" # Optional profile image
   bio: "Researching materials for hydrogen technologies and using data science to do it."
   location: "Ljubljana, Slovenia, EU"
   links:
@@ -33,17 +29,23 @@ author:
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/ana-rebeka-kamsek/"
 
-main:
-  - title: Home
+# Navigation menu
+navigation:
+  - title: "Home"
     url: /
-  - title: About
+  - title: "About"
     url: /about/
-  - title: Research
+  - title: "Research"
     url: /research/
-  - title: Publications
+  - title: "Publications"
     url: /publications/
-  - title: Science communication
+  - title: "Science communication"
     url: /scicomm/
+
+# Assign navigation to header
+header:
+  nav:
+    - navigation
 
 # Build settings
 markdown: kramdown
