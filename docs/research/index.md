@@ -1,10 +1,8 @@
 ---
-layout: single
+layout: default
 title: "Research"
 permalink: /research/
 ---
-
-# Research
 
 My research focuses on **nanostructured electrocatalysts** for sustainable energy conversion, particularly in **proton exchange membrane (PEM) water electrolyzers** and **fuel cells**. These devices rely on catalysts based on precious metals such as **platinum** (Pt) and **iridium** (Ir), whose scarcity and cost drive the need for more efficient, durable, and resource-lean designs.
 
