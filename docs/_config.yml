@@ -1,1 +1,22 @@
-remote_theme: "mmistakes/minimal-mistakes@4.27.3"
+# remote_theme: "mmistakes/minimal-mistakes@4.27.3"
+
+title: "Ana Rebeka Kamšek"
+description: "Hydrogen, materials, data"
+url: "https://kamsekar.github.io"
+theme: jekyll-theme-minimal   # or jekyll-theme-cayman, jekyll-theme-slate, etc.
+markdown: kramdown
+plugins:
+  - jekyll-feed      # RSS
+  - jekyll-sitemap   # SEO
+# Navigation (manual for minimal theme)
+navbar:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Research
+    url: /research/
+  - title: Publications
+    url: /publications/
+  - title: Science outreach
+    url: /outreach/
