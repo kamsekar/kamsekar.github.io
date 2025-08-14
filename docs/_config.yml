@@ -30,7 +30,7 @@ author:
       url: "https://www.linkedin.com/in/ana-rebeka-kamsek/"
 
 # Navigation menu
-navigation:
+main:
   - title: "Home"
     url: /
   - title: "About"
@@ -45,7 +45,7 @@ navigation:
 # Assign navigation to header
 header:
   nav:
-    - navigation
+    - main
 
 # Build settings
 markdown: kramdown
