@@ -1,11 +1,8 @@
 ---
 layout: single
-title: "Home"
+title: /
 permalink: /
 ---
-
-# Ana Rebeka Kamšek
-
 
 Welcome! I am a researcher in the Laboratory for Electrocatalysis at the National Institute of Chemistry in Ljubljana, Slovenia. 
 
