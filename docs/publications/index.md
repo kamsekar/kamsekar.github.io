@@ -4,79 +4,90 @@ title: Publications
 permalink: /publications/
 ---
 
-# Publications
+Here is a selection of recent scientific papers I (co-)authored. A complete list can be found on my [Google Scholar](https://scholar.google.com/citations?user=lhbwej0AAAAJ).
 
-- **Deactivation of copper electrocatalysts during CO₂ reduction occurs via dissolution and selective redeposition mechanism** (2025)  
-  *B. Tomc, M. Bele, M.A. Nazrulla, P. Šket, M. Finšgar, A.K. Surca, A.R. Kamšek, ...*  
-  *Journal of Materials Chemistry A*, **13** (6), 4119–4128.  
-  [![DOI](https://img.shields.io/badge/DOI-10.1039%2FD4TA06466F-blue)](https://doi.org/10.1039/D4TA06466F)
+---
 
-- **Structure–Stability Relationships in Pt-Alloy Nanoparticles Using Identical-Location Four-Dimensional Scanning Transmission Electron Microscopy and Unsupervised Machine Learning** (2025)  
-  *A.R. Kamšek, F. Ruiz-Zepeda, M. Bele, A. Logar, G. Dražič, N. Hodnik*  
+Platinum-copper nanoparticles can catalyze the oxygen reduction reaction in a hydrogen fuel cell. Understanding which structural features do and don’t influence activity or stability helps focus research on changes that truly improve catalyst performance. 
+
+At the atomic scale, platinum and copper atoms may be randomly mixed or arranged in an ordered structure. We found that ordered sites near the nanoparticle surface, where the reaction occurs, are more stable during electrochemical activation, a step that prepares the catalyst for long-term use. This insight was made possible by a new methodological approach, combining identical-location 4D-STEM with unsupervised learning algorithms to analyze the data.
+
+**Structure–Stability Relationships in Pt-Alloy Nanoparticles Using Identical-Location Four-Dimensional Scanning Transmission Electron Microscopy and Unsupervised Machine Learning** (2025)  
+  *<u>A.R. Kamšek</u>, F. Ruiz-Zepeda, M. Bele, A. Logar, G. Dražič, N. Hodnik*  
   *ACS Nano*, **19** (2), 2334–2344.  
-  [![DOI](https://img.shields.io/badge/DOI-10.1021%2Facsnano.4c12528-blue)](https://doi.org/10.1021/acsnano.4c12528)
+  [![DOI](https://img.shields.io/badge/DOI-10.1021%2Facsnano.4c12528-blue)](https://doi.org/10.1021/acsnano.4c12528) [![Link](https://img.shields.io/badge/Link-Research%20Highlight-%2301bc8b)](https://www.ki.si/en/news/spreminjanje-strukture-nanodelcev-iz-zlitine-platina-baker/)
 
-- **Titanium oxynitride-supported Ru nanoparticles as exceptional electrocatalysts for alkaline hydrogen evolution reaction** (2025)  
-  *M. Smiljanić, M. Bele, L. Pavko, A. Hrnjić, F. Ruiz-Zepeda, L. Bijelić, ...*  
-  *Chemical Engineering Journal*, 164204.  
-  [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.cej.2025.164204-blue)](https://doi.org/10.1016/j.cej.2025.164204)
+Within the ordered phase, defects known as anti-phase boundaries can form, as previously seen only in bulk alloys. In this work, we confirmed they also appear in nanoparticles, but found no significant effect on the catalytic activity.
 
-- **Metal–support interaction between titanium oxynitride and Pt nanoparticles enables efficient low-Pt-loaded high-performance electrodes at relevant oxygen reduction reaction conditions** (2024)  
-  *A. Hrnjić, A.R. Kamšek, L. Bijelić, A. Logar, N. Maselj, M. Smiljanić, ...*  
-  *ACS Catalysis*, **14** (4), 2473–2486.  
-  [![DOI](https://img.shields.io/badge/DOI-10.1021%2Facscatal.3c03883-blue)](https://doi.org/10.1021/acscatal.3c03883)
-
-- **Novel Methodology of General Scaling-Approach Normalization of Impedance Parameters of Insertion Battery Electrodes – Case Study on Ni-Rich NMC Cathode: Part I. Experimental and Theoretical Insights** (2024)  
-  *M. Firm, J. Moškon, G. Kapun, S.D. Talian, A.R. Kamšek, M. Štefančič, ...*  
-  *Journal of The Electrochemical Society*, **171** (12), 120540.  
-  [![DOI](https://img.shields.io/badge/DOI-10.1149%2F1945-7111%2Fada061-blue)](https://doi.org/10.1149/1945-7111/ada061)
-
-- **Periodic anti-phase boundaries and crystal superstructures in PtCu₃ nanoparticles as fuel cell electrocatalysts** (2023)  
-  *A.R. Kamšek, A. Meden, I. Arčon, P. Jovanovič, M. Šala, F. Ruiz-Zepeda, ...*  
+**Periodic anti-phase boundaries and crystal superstructures in PtCu₃ nanoparticles as fuel cell electrocatalysts** (2023)  
+  *<u>A.R. Kamšek</u>, A. Meden, I. Arčon, P. Jovanovič, M. Šala, F. Ruiz-Zepeda, G. Dražić, M. Gaberšček, M. Bele, N. Hodnik*  
   *Materials Today Nano*, **23**, 100377.  
-  [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.mtnano.2023.100377-blue)](https://doi.org/10.1016/j.mtnano.2023.100377)
+  [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.mtnano.2023.100377-blue)](https://doi.org/10.1016/j.mtnano.2023.100377) [![Link](https://img.shields.io/badge/Link-Research%20Highlight-%2301bc8b)](https://www.ki.si/en/news/anti-phase-boundaries-in-platinum-copper-alloy-nanoparticles/)
 
-- **“Nano Lab” Advanced Characterization Platform for Studying Electrocatalytic Iridium Nanoparticles Dispersed on TiOxNy Supports Prepared on Ti Transmission Electron Microscopy Grids** (2023)  
-  *M. Bele, G.K. Podboršek, A. Lončar, P. Jovanović, A. Hrnjić, Z. Marinko, ...*  
-  *ACS Applied Nano Materials*, **6** (12), 10421–10430.  
-  [![DOI](https://img.shields.io/badge/DOI-10.1021%2Facsanm.3c01368-blue)](https://doi.org/10.1021/acsanm.3c01368)
+---
 
-- **Time and Potential Resolved Comparison of Copper Disc and Copper Nanoparticles for Electrocatalytic Hydrogenation of Furfural** (2023)  
-  *N. Maselj, V. Jovanovski, F. Ruiz-Zepeda, M. Finšgar, T. Klemenčič, ...*  
-  *Energy Technology*.  
-  [![DOI](https://img.shields.io/badge/DOI-10.1002%2Fente.202201467-blue)](https://doi.org/10.1002/ente.202201467)
+Atomically resolved microscopy images hold far more detail than the human eye can process. This review explains how computer algorithms can unlock that hidden information, providing consistent, objective insights and enabling the analysis of electrocatalyst datasets too large or too tricky for manual work.
 
-- **Mechanistic Study of Fast Performance Decay of PtCu Alloy-based Catalyst Layers for Polymer Electrolyte Fuel Cells through Electrochemical Impedance Spectroscopy** (2023)  
-  *M. Grandi, M. Gatalo, A.R. Kamšek, G. Kapun, K. Mayer, F. Ruiz-Zepeda, ...*  
-  *Materials*, **16** (9), 3544.  
-  [![DOI](https://img.shields.io/badge/DOI-10.3390%2Fma16093544-blue)](https://doi.org/10.3390/ma16093544)
-
-- **Atomically-resolved structural changes of ceramic supported nanoparticulate oxygen evolution reaction Ir catalyst** (2022)  
-  *G.K. Podboršek, A.R. Kamšek, A. Lončar, M. Bele, L. Suhadolnik, P. Jovanovič, ...*  
-  *Electrochimica Acta*, **426**, 140800.  
-  [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.electacta.2022.140800-blue)](https://doi.org/10.1016/j.electacta.2022.140800)
-
-- **Iridium Stabilizes Ceramic Titanium Oxynitride Support for Oxygen Evolution Reaction** (2022)  
-  *G. Koderman Podboršek, L. Suhadolnik, A. Lončar, M. Bele, A. Hrnjić, ...*  
-  *ACS Catalysis*, **12** (24), 15135–15145.  
-  [![DOI](https://img.shields.io/badge/DOI-10.1021%2Facscatal.2c04160-blue)](https://doi.org/10.1021/acscatal.2c04160)
-
-- **Bringing into play automated electron microscopy data processing for understanding nanoparticulate electrocatalysts’ structure–property relationships** (2022)  
-  *A.R. Kamšek, F. Ruiz-Zepeda, A. Pavlišič, A. Hrnjić, N. Hodnik*  
+**Bringing into play automated electron microscopy data processing for understanding nanoparticulate electrocatalysts’ structure–property relationships** (2022)  
+  *<u>A.R. Kamšek</u>, F. Ruiz-Zepeda, A. Pavlišič, A. Hrnjić, N. Hodnik*  
   *Current Opinion in Electrochemistry*, **35**, 101052.  
   [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.coelec.2022.101052-blue)](https://doi.org/10.1016/j.coelec.2022.101052)
 
-- **Resolving the nanoparticles' structure–property relationships at the atomic level: a study of Pt-based electrocatalysts** (2021)  
-  *L.J. Moriau, A. Hrnjić, A. Pavlišič, A.R. Kamšek, U. Petek, F. Ruiz-Zepeda, ...*  
+---
+
+Linking local structural changes to performance helps guide the design of more durable, efficient fuel-cell catalysts. Modern electrocatalysts for catalyzing reactions in hydrogen fuel cells are commonly made up of platinum-alloy nanoparticles, dispersed over a carbon support. Their varied structures mean they degrade differently under operating conditions. We showed that identical-location microscopy is an appropriate method to track the local history of specific catalyst sites, which nicely complements the bulk information gathered with other experimental methods such as electrochemical measurements. 
+
+The first paper is a comparison of different commercial electrocatalysts for the oxygen reduction reaction of acidic media, and the second is a more detailed investigation of platinum-cobalt nanoparticles at the atomic scale. 
+
+**Resolving the nanoparticles' structure–property relationships at the atomic level: a study of Pt-based electrocatalysts** (2021)  
+  *L.J. Moriau, A. Hrnjić, A. Pavlišič, <u>A.R. Kamšek</u>, U. Petek, F. Ruiz-Zepeda, M. Šala, L. Pavko, V.S. Šelih, M. Bele, P. Jovanovič, M. Gatalo, N. Hodnik*  
   *iScience*, **24** (2), 102102.  
   [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.isci.2021.102102-blue)](https://doi.org/10.1016/j.isci.2021.102102)
 
-- **Observing, tracking and analysing electrochemically induced atomic-scale structural changes of an individual Pt–Co nanoparticle as a fuel cell electrocatalyst by combining complementary electron microscopy techniques** (2021)  
-  *A. Hrnjić, A.R. Kamšek, A. Pavlišič, M. Šala, M. Bele, L. Moriau, ...*  
+**Observing, tracking and analysing electrochemically induced atomic-scale structural changes of an individual Pt–Co nanoparticle as a fuel cell electrocatalyst by combining complementary electron microscopy techniques** (2021)  
+  *A. Hrnjić, <u>A.R. Kamšek</u>, A. Pavlišič, M. Šala, M. Bele, L. Moriau, M. Gatalo, F. Ruiz-Zepeda, P. Jovanovič, N. Hodnik*  
   *Electrochimica Acta*, **388**, 138513.  
   [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.electacta.2021.138513-blue)](https://doi.org/10.1016/j.electacta.2021.138513)
 
-- **A Double‐Passivation Water‐Based Galvanic Displacement Method for Reproducible Gram‐Scale Production of High‐Performance Platinum‐Alloy Electrocatalysts** (2019)  
-  *M. Gatalo, M. Bele, F. Ruiz‐Zepeda, E. Šest, M. Šala, A.R. Kamšek, N. Maselj, ...*  
-  *Angewandte Chemie*, **131** (38), 13400–13404.  
-  [![DOI](https://img.shields.io/badge/DOI-10.1002%2Fange.201903568-blue)](https://doi.org/10.1002/ange.201903568)
+---
+
+The electrocatalysts I work with typically consist of catalytic nanoparticles dispersed on a support material. Their performance can be improved not only by optimizing the noble-metal-based nanoparticles themselves, but also by tailoring the support. Certain supports, such as ceramics, can interact with nanoparticles in ways that enhance activity or otherwise contribute to an improved catalytic performance, even though the support alone is not highly catalytic.
+
+These three papers show examples of how using a titanium oxynitride support created beneficial metal–support interactions compared to the commonly used carbon support:
+ - Platinum nanoparticles for the oxygen reduction reaction (ORR) in acidic media, one of the half-reactions in a hydrogen fuel cell.
+ - Ruthenium nanoparticles for the hydrogen evolution reaction (HER) in alkaline media, one of the half-reactions in water splitting.
+ - Iridium nanoparticles for the oxygen evolution reaction (OER) in acidic media, the other half-reaction in water splitting.
+
+**Metal–support interaction between titanium oxynitride and Pt nanoparticles enables efficient low-Pt-loaded high-performance electrodes at relevant oxygen reduction reaction conditions** (2024)  
+  *A. Hrnjić, <u>A.R. Kamšek</u>, L. Bijelić, A. Logar, N. Maselj, M. Smiljanić, J. Trputec, N. Vovk, L. Pavko, F. Ruiz-Zepeda, M. Bele, P. Jovanovič, N. Hodnik*  
+  *ACS Catalysis*, **14** (4), 2473–2486.  
+  [![DOI](https://img.shields.io/badge/DOI-10.1021%2Facscatal.3c03883-blue)](https://doi.org/10.1021/acscatal.3c03883) [![Link](https://img.shields.io/badge/Link-Research%20Highlight-%2301bc8b)](https://www.ki.si/en/news/metal-support-interaction-between-titanium-oxynitride-and-pt-nanoparticles-enables-efficient-low-pt-loaded-high-performance-electrodes-at-relevant-oxygen-reduction-reaction-current-densities/)
+  
+**Titanium oxynitride-supported Ru nanoparticles as exceptional electrocatalysts for alkaline hydrogen evolution reaction** (2025)  
+  *M. Smiljanić, M. Bele, L. Pavko, A. Hrnjić, F. Ruiz-Zepeda, L. Bijelić, <u>A.R. Kamšek</u>, M. Nuhanović, A. Marsel, L. Gašparič, A. Kokalj, N. Hodnik*  
+  *Chemical Engineering Journal*, 164204.  
+  [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.cej.2025.164204-blue)](https://doi.org/10.1016/j.cej.2025.164204) [![Link](https://img.shields.io/badge/Link-Research%20Highlight-%2301bc8b)](https://www.ki.si/en/news/manj-plemenitih-kovin-vec-vodika-v-alkalnem-elektrolitu/)
+
+**Iridium Stabilizes Ceramic Titanium Oxynitride Support for Oxygen Evolution Reaction** (2022)  
+  *G. Koderman Podboršek, L. Suhadolnik, A. Lončar, M. Bele, A. Hrnjić, Ž. Marinko, J. Kovač, A. Kokalj, L. Gašparič, A.K. Surca, <u>A.R. Kamšek</u>, G. Dražić, M. Gaberšček, N. Hodnik, P. Jovanovič*  
+  *ACS Catalysis*, **12** (24), 15135–15145.  
+  [![DOI](https://img.shields.io/badge/DOI-10.1021%2Facscatal.2c04160-blue)](https://doi.org/10.1021/acscatal.2c04160) [![Link](https://img.shields.io/badge/Link-Research%20Highlight-%2301bc8b)](https://www.ki.si/en/news/povecanje-stabilnosti-keramicnega-titanovega-oksinitridnega-nosilca-med-elektrolizo-vode-preko-iridija/)
+  
+---
+
+These two papers step outside my usual focus on hydrogen technologies.
+
+The first explores **electrocatalytic CO₂ reduction**, a key carbon capture, utilization, and storage (CCUS) technology. Using copper catalysts speeds up the reaction, but they undergo structural changes during operation that affect long-term performance.
+
+The second examines Ni-rich NMC, a commercial **battery** cathode material. It proposes a methodology for reliable, accurate impedance measurements of active electrodes, along with the characterization techniques needed for meaningful interpretation of the results.
+
+**Deactivation of copper electrocatalysts during CO₂ reduction occurs via dissolution and selective redeposition mechanism** (2025)  
+  *B. Tomc, M. Bele, M.A. Nazrulla, P. Šket, M. Finšgar, A.K. Surca, <u>A.R. Kamšek</u>, M. Šala, J. Šiler Hudoklin, M. Huš, B. Likozar, N. Hodnik*  
+  *Journal of Materials Chemistry A*, **13** (6), 4119–4128.  
+  [![DOI](https://img.shields.io/badge/DOI-10.1039%2FD4TA06466F-blue)](https://doi.org/10.1039/D4TA06466F) [![Link](https://img.shields.io/badge/Link-Research%20Highlight-%2301bc8b)](https://www.ki.si/en/news/deactivation-of-copper-during-electrochemical-c02-conversion/)
+
+**Novel Methodology of General Scaling-Approach Normalization of Impedance Parameters of Insertion Battery Electrodes – Case Study on Ni-Rich NMC Cathode: Part I. Experimental and Theoretical Insights** (2024)  
+  *M. Firm, J. Moškon, G. Kapun, S. Drvarič Talian, <u>A.R. Kamšek</u>, M. Štefančič, S. Hočevar, R. Dominko, M. Gaberšček*  
+  *Journal of The Electrochemical Society*, **171** (12), 120540.  
+  [![DOI](https://img.shields.io/badge/DOI-10.1149%2F1945--7111%2Fada061-blue)](https://doi.org/10.1149/1945-7111/ada061)
+  
