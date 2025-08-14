@@ -1,0 +1,55 @@
+---
+# keep this front matter so Jekyll compiles SCSS
+---
+@import "minimal-mistakes/skins/default";   // or your chosen skin
+@import "minimal-mistakes";
+
+/* === Compact, elegant typography & spacing === */
+
+/* Base text a bit smaller, line-height calmer */
+html { font-size: 16px; }                    /* 1rem = 16px (down from bigger perceived scale) */
+.page__content { font-size: 0.985rem; line-height: 1.6; }
+
+/* Headings: reduce size & vertical whitespace */
+.page__content h1 { font-size: 1.75rem; margin: 1.1rem 0 0.6rem; }
+.page__content h2 { font-size: 1.35rem; margin: 1rem 0 0.5rem; }
+.page__content h3 { font-size: 1.15rem; margin: 0.85rem 0 0.45rem; }
+.page__content h4 { font-size: 1.02rem; margin: 0.7rem 0 0.4rem; }
+.page__content p  { margin: 0.55rem 0; }
+.page__content li { margin: 0.3rem 0; }
+
+/* Make the content column a comfortable width */
+.page,
+.page__inner-wrap,
+.initial-content {
+  max-width: 820px;          /* sweet spot for readability */
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Subtler link color and hover (feel free to tweak) */
+.page__content a { text-decoration: none; }
+.page__content a:hover { text-decoration: underline; }
+
+/* Nav size & spacing—tone it down a bit */
+.masthead .site-title { font-size: 1.05rem; }
+.greedy-nav .visible-links > li > a {
+  font-size: 0.95rem;
+  padding: 0.35rem 0.6rem;
+}
+
+/* DOI badges not so loud */
+.page__content img[alt="DOI"] { height: 18px; }
+
+/* Horizontal rules lighter */
+.page__content hr { border: 0; border-top: 1px solid rgba(0,0,0,0.08); margin: 1rem 0; }
+
+/* Optional: subtle card look for callouts/publications */
+.pubcard { background:#fff; border:1px solid rgba(0,0,0,.08); border-radius:12px; padding:0.9rem 1rem; margin:1rem 0; }
+.pubcard p { margin:0.45rem 0 0.25rem; }
+
+/* Mobile tweaks */
+@media (max-width: 600px) {
+  html { font-size: 15.5px; }
+  .greedy-nav .visible-links > li > a { padding: 0.3rem 0.5rem; }
+}
