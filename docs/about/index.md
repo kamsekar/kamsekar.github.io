@@ -9,17 +9,17 @@ I’m a researcher working at the intersection of **hydrogen technologies**, **m
 ---
 
 ## Education
-- **Ph.D. in Chemistry** (2025), University of Ljubljana. Thesis: [Crystal structure of platinum and iridium nanocomposite electrocatalysts](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=170176&lang=eng)
-- **M.Sc. in Physics** (2021), University of Ljubljana. Thesis: [Algorithms for image analysis of atomically resolved electron micrographs](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=129882&lang=eng) (in Slovene)
-- **B.Sc. in Physics** (2019), University of Ljubljana; a semester abroad at TU Berlin.
+- *Ph.D. in Chemistry* (2025), University of Ljubljana. Thesis: [Crystal structure of platinum and iridium nanocomposite electrocatalysts](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=170176&lang=eng)
+- *M.Sc. in Physics* (2021), University of Ljubljana. Thesis: [Algorithms for image analysis of atomically resolved electron micrographs](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=129882&lang=eng) (in Slovene)
+- *B.Sc. in Physics* (2019), University of Ljubljana; a semester abroad at TU Berlin.
 
 ---
 
 ## Selected recognition
-- **Best natural science lecture (2024)** — publishing house Slovenska matica and The
+- *Best natural science lecture (2024)* — publishing house Slovenska matica and The
 Association for Technical Culture of Slovenia.
-- **Best master’s thesis in sustainable chemistry (2022)** — Slovenian Chemical Society.
-- **Best poster (2022)** — Slovenian-Bavarian Summer School: Materials for
+- *Best master’s thesis in sustainable chemistry (2022)* — Slovenian Chemical Society.
+- *Best poster (2022)* — Slovenian-Bavarian Summer School: Materials for
 Energy and Environmental Application.
 
 ---
