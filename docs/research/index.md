@@ -20,6 +20,7 @@ My research focuses on **nanostructured electrocatalysts** for sustainable energ
     <p>Atomic-scale structure has a profound impact on catalytic activity and stability. Understanding it is essential for designing catalysts that meet industrial performance and lifetime requirements.</p>
     <p>See the selected <a href="/publications/">publications</a> for more details.</p>
   </div>
+  <br>
 </div>
 
 ## Methods
