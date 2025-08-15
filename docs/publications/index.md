@@ -13,25 +13,28 @@ Here is a selection of recent scientific papers I (co-)authored. A complete list
 At the atomic scale, platinum and copper atoms may be randomly mixed or arranged in an <u>ordered structure</u>. We found that ordered sites near the nanoparticle surface, where the reaction occurs, are more stable during electrochemical activation, a step that prepares the catalyst for long-term use. This insight was made possible by a new methodological approach, combining <u>identical-location 4D-STEM with unsupervised learning algorithms</u> to analyze the data.
 
 <span style="font-size: 0.85em;">
-**Structure–Stability Relationships in Pt-Alloy Nanoparticles Using Identical-Location Four-Dimensional Scanning Transmission Electron Microscopy and Unsupervised Machine Learning**. *<u>A.R. Kamšek</u>, F. Ruiz-Zepeda, M. Bele, A. Logar, G. Dražič, N. Hodnik*. *ACS Nano*, **19** (2), 2334–2344, 2025.  
+**Structure–Stability Relationships in Pt-Alloy Nanoparticles Using Identical-Location Four-Dimensional Scanning Transmission Electron Microscopy and Unsupervised Machine Learning**. 
+  <u>A.R. Kamšek</u>, F. Ruiz-Zepeda, M. Bele, A. Logar, G. Dražič, N. Hodnik. *ACS Nano*, **19** (2), 2334–2344, 2025.  
 [![DOI](https://img.shields.io/badge/DOI-10.1021%2Facsnano.4c12528-blue)](https://doi.org/10.1021/acsnano.4c12528) [![Link](https://img.shields.io/badge/Link-Research%20Highlight-%2301bc8b)](https://www.ki.si/en/news/spreminjanje-strukture-nanodelcev-iz-zlitine-platina-baker/) [![Code](https://img.shields.io/badge/Code-Repository-063970)](https://github.com/kamsekar/Local-crystal-structure-4DSTEM)
 </span>
 
 Within the ordered phase, <u>defects</u> known as anti-phase boundaries can form, as previously seen only in bulk alloys. In this work, we confirmed they also appear in nanoparticles, but found no significant effect on the catalytic activity.
 
-**Periodic anti-phase boundaries and crystal superstructures in PtCu₃ nanoparticles as fuel cell electrocatalysts** (2023)  
-  *<u>A.R. Kamšek</u>, A. Meden, I. Arčon, P. Jovanovič, M. Šala, F. Ruiz-Zepeda, G. Dražić, M. Gaberšček, M. Bele, N. Hodnik*  
-  *Materials Today Nano*, **23**, 100377.  
-  [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.mtnano.2023.100377-blue)](https://doi.org/10.1016/j.mtnano.2023.100377) [![Link](https://img.shields.io/badge/Link-Research%20Highlight-%2301bc8b)](https://www.ki.si/en/news/anti-phase-boundaries-in-platinum-copper-alloy-nanoparticles/) [![Code](https://img.shields.io/badge/Code-Repository-063970)](https://github.com/kamsekar/Defects-in-nanomaterials)
+<span style="font-size: 0.85em;">
+**Periodic anti-phase boundaries and crystal superstructures in PtCu₃ nanoparticles as fuel cell electrocatalysts**.  
+  <u>A.R. Kamšek</u>, A. Meden, I. Arčon, P. Jovanovič, M. Šala, F. Ruiz-Zepeda, G. Dražić, M. Gaberšček, M. Bele, N. Hodnik. *Materials Today Nano*, **23**, 100377, 2023.
+[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.mtnano.2023.100377-blue)](https://doi.org/10.1016/j.mtnano.2023.100377) [![Link](https://img.shields.io/badge/Link-Research%20Highlight-%2301bc8b)](https://www.ki.si/en/news/anti-phase-boundaries-in-platinum-copper-alloy-nanoparticles/) [![Code](https://img.shields.io/badge/Code-Repository-063970)](https://github.com/kamsekar/Defects-in-nanomaterials)
+</span>
 
 ---
 
 Atomically resolved microscopy images hold far more detail than the human eye can process. This review explains how computer <u>algorithms</u> can unlock that hidden information, providing consistent, objective insights and enabling the <u>analysis of electrocatalyst image datasets</u> too large or too tricky for manual work.
 
-**Bringing into play automated electron microscopy data processing for understanding nanoparticulate electrocatalysts’ structure–property relationships** (2022)  
-  *<u>A.R. Kamšek</u>, F. Ruiz-Zepeda, A. Pavlišič, A. Hrnjić, N. Hodnik*  
-  *Current Opinion in Electrochemistry*, **35**, 101052.  
-  [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.coelec.2022.101052-blue)](https://doi.org/10.1016/j.coelec.2022.101052)
+<span style="font-size: 0.85em;">
+**Bringing into play automated electron microscopy data processing for understanding nanoparticulate electrocatalysts’ structure–property relationships**.
+  <u>A.R. Kamšek</u>, F. Ruiz-Zepeda, A. Pavlišič, A. Hrnjić, N. Hodnik. *Current Opinion in Electrochemistry*, **35**, 101052, 2022.  
+[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.coelec.2022.101052-blue)](https://doi.org/10.1016/j.coelec.2022.101052)
+</span>
 
 ---
 
@@ -39,15 +42,16 @@ Linking local structural changes to performance helps guide the design of more d
 
 The first paper is a comparison of different commercial electrocatalysts for the oxygen reduction reaction of acidic media, and the second is a more detailed investigation of platinum-cobalt nanoparticles at the atomic scale. 
 
-**Resolving the nanoparticles' structure–property relationships at the atomic level: a study of Pt-based electrocatalysts** (2021)  
-  *L.J. Moriau, A. Hrnjić, A. Pavlišič, <u>A.R. Kamšek</u>, U. Petek, F. Ruiz-Zepeda, M. Šala, L. Pavko, V.S. Šelih, M. Bele, P. Jovanovič, M. Gatalo, N. Hodnik*  
-  *iScience*, **24** (2), 102102.  
-  [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.isci.2021.102102-blue)](https://doi.org/10.1016/j.isci.2021.102102) [![Code](https://img.shields.io/badge/Code-Repository-063970)](https://github.com/kamsekar/Atomically-resolved-images)
-
-**Observing, tracking and analysing electrochemically induced atomic-scale structural changes of an individual Pt–Co nanoparticle as a fuel cell electrocatalyst by combining complementary electron microscopy techniques** (2021)  
-  *A. Hrnjić, <u>A.R. Kamšek</u>, A. Pavlišič, M. Šala, M. Bele, L. Moriau, M. Gatalo, F. Ruiz-Zepeda, P. Jovanovič, N. Hodnik*  
-  *Electrochimica Acta*, **388**, 138513.  
+<span style="font-size: 0.85em;">
+**Resolving the nanoparticles' structure–property relationships at the atomic level: a study of Pt-based electrocatalysts**. 
+  L.J. Moriau, A. Hrnjić, A. Pavlišič, <u>A.R. Kamšek</u>, U. Petek, F. Ruiz-Zepeda, M. Šala, L. Pavko, V.S. Šelih, M. Bele, P. Jovanovič, M. Gatalo, N. Hodnik. *iScience*, **24** (2), 102102, 2021.  
+[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.isci.2021.102102-blue)](https://doi.org/10.1016/j.isci.2021.102102) [![Code](https://img.shields.io/badge/Code-Repository-063970)](https://github.com/kamsekar/Atomically-resolved-images)
+</span>
+<span style="font-size: 0.85em;">
+**Observing, tracking and analysing electrochemically induced atomic-scale structural changes of an individual Pt–Co nanoparticle as a fuel cell electrocatalyst by combining complementary electron microscopy techniques**.  
+  A. Hrnjić, <u>A.R. Kamšek</u>, A. Pavlišič, M. Šala, M. Bele, L. Moriau, M. Gatalo, F. Ruiz-Zepeda, P. Jovanovič, N. Hodnik. *Electrochimica Acta*, **388**, 138513, 2021.  
   [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.electacta.2021.138513-blue)](https://doi.org/10.1016/j.electacta.2021.138513) [![Code](https://img.shields.io/badge/Code-Repository-063970)](https://github.com/kamsekar/Atomically-resolved-images)
+</span>
 
 ---
 
@@ -58,21 +62,21 @@ These three papers show examples of how using a titanium oxynitride support crea
  - Ruthenium nanoparticles for the hydrogen evolution reaction (HER) in alkaline media, one of the half-reactions in water splitting.
  - Iridium nanoparticles for the oxygen evolution reaction (OER) in acidic media, the other half-reaction in water splitting.
 
-**Metal–support interaction between titanium oxynitride and Pt nanoparticles enables efficient low-Pt-loaded high-performance electrodes at relevant oxygen reduction reaction conditions** (2024)  
-  *A. Hrnjić, <u>A.R. Kamšek</u>, L. Bijelić, A. Logar, N. Maselj, M. Smiljanić, J. Trputec, N. Vovk, L. Pavko, F. Ruiz-Zepeda, M. Bele, P. Jovanovič, N. Hodnik*  
-  *ACS Catalysis*, **14** (4), 2473–2486.  
+<span style="font-size: 0.85em;">
+**Metal–support interaction between titanium oxynitride and Pt nanoparticles enables efficient low-Pt-loaded high-performance electrodes at relevant oxygen reduction reaction conditions**.  
+  A. Hrnjić, <u>A.R. Kamšek</u>, L. Bijelić, A. Logar, N. Maselj, M. Smiljanić, J. Trputec, N. Vovk, L. Pavko, F. Ruiz-Zepeda, M. Bele, P. Jovanovič, N. Hodnik. *ACS Catalysis*, **14** (4), 2473–2486, 2024.  
   [![DOI](https://img.shields.io/badge/DOI-10.1021%2Facscatal.3c03883-blue)](https://doi.org/10.1021/acscatal.3c03883) [![Link](https://img.shields.io/badge/Link-Research%20Highlight-%2301bc8b)](https://www.ki.si/en/news/metal-support-interaction-between-titanium-oxynitride-and-pt-nanoparticles-enables-efficient-low-pt-loaded-high-performance-electrodes-at-relevant-oxygen-reduction-reaction-current-densities/) [![Code](https://img.shields.io/badge/Code-Repository-063970)](https://github.com/kamsekar/Atomically-resolved-images)
-  
-**Titanium oxynitride-supported Ru nanoparticles as exceptional electrocatalysts for alkaline hydrogen evolution reaction** (2025)  
-  *M. Smiljanić, M. Bele, L. Pavko, A. Hrnjić, F. Ruiz-Zepeda, L. Bijelić, <u>A.R. Kamšek</u>, M. Nuhanović, A. Marsel, L. Gašparič, A. Kokalj, N. Hodnik*  
-  *Chemical Engineering Journal*, 164204.  
-  [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.cej.2025.164204-blue)](https://doi.org/10.1016/j.cej.2025.164204) [![Link](https://img.shields.io/badge/Link-Research%20Highlight-%2301bc8b)](https://www.ki.si/en/news/manj-plemenitih-kovin-vec-vodika-v-alkalnem-elektrolitu/)
-
-**Iridium Stabilizes Ceramic Titanium Oxynitride Support for Oxygen Evolution Reaction** (2022)  
-  *G. Koderman Podboršek, L. Suhadolnik, A. Lončar, M. Bele, A. Hrnjić, Ž. Marinko, J. Kovač, A. Kokalj, L. Gašparič, A.K. Surca, <u>A.R. Kamšek</u>, G. Dražić, M. Gaberšček, N. Hodnik, P. Jovanovič*  
-  *ACS Catalysis*, **12** (24), 15135–15145.  
+</span>
+<span style="font-size: 0.85em;">
+**Titanium oxynitride-supported Ru nanoparticles as exceptional electrocatalysts for alkaline hydrogen evolution reaction**,  
+  M. Smiljanić, M. Bele, L. Pavko, A. Hrnjić, F. Ruiz-Zepeda, L. Bijelić, <u>A.R. Kamšek</u>, M. Nuhanović, A. Marsel, L. Gašparič, A. Kokalj, N. Hodnik. *Chemical Engineering Journal*, 164204, 2025. 
+[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.cej.2025.164204-blue)](https://doi.org/10.1016/j.cej.2025.164204) [![Link](https://img.shields.io/badge/Link-Research%20Highlight-%2301bc8b)](https://www.ki.si/en/news/manj-plemenitih-kovin-vec-vodika-v-alkalnem-elektrolitu/)
+</span>
+<span style="font-size: 0.85em;">
+**Iridium Stabilizes Ceramic Titanium Oxynitride Support for Oxygen Evolution Reaction**.  
+  G. Koderman Podboršek, L. Suhadolnik, A. Lončar, M. Bele, A. Hrnjić, Ž. Marinko, J. Kovač, A. Kokalj, L. Gašparič, A.K. Surca, <u>A.R. Kamšek</u>, G. Dražić, M. Gaberšček, N. Hodnik, P. Jovanovič. *ACS Catalysis*, **12** (24), 15135–15145, 2022.  
   [![DOI](https://img.shields.io/badge/DOI-10.1021%2Facscatal.2c04160-blue)](https://doi.org/10.1021/acscatal.2c04160) [![Link](https://img.shields.io/badge/Link-Research%20Highlight-%2301bc8b)](https://www.ki.si/en/news/povecanje-stabilnosti-keramicnega-titanovega-oksinitridnega-nosilca-med-elektrolizo-vode-preko-iridija/)  [![Code](https://img.shields.io/badge/Code-Repository-063970)](https://github.com/kamsekar/Particle-segmentation)
-  
+</span>
 ---
 
 These two papers step outside my usual focus on hydrogen technologies.
@@ -81,13 +85,13 @@ The first explores <u>electrocatalytic CO₂ reduction</u>, a key carbon capture
 
 The second examines Ni-rich NMC, a commercial <u>battery</u> cathode material. It proposes a methodology for reliable, accurate impedance measurements of active electrodes, along with the characterization techniques needed for meaningful interpretation of the results.
 
-**Deactivation of copper electrocatalysts during CO₂ reduction occurs via dissolution and selective redeposition mechanism** (2025)  
-  *B. Tomc, M. Bele, M.A. Nazrulla, P. Šket, M. Finšgar, A.K. Surca, <u>A.R. Kamšek</u>, M. Šala, J. Šiler Hudoklin, M. Huš, B. Likozar, N. Hodnik*  
-  *Journal of Materials Chemistry A*, **13** (6), 4119–4128.  
-  [![DOI](https://img.shields.io/badge/DOI-10.1039%2FD4TA06466F-blue)](https://doi.org/10.1039/D4TA06466F) [![Link](https://img.shields.io/badge/Link-Research%20Highlight-%2301bc8b)](https://www.ki.si/en/news/deactivation-of-copper-during-electrochemical-c02-conversion/)
-
-**Novel Methodology of General Scaling-Approach Normalization of Impedance Parameters of Insertion Battery Electrodes – Case Study on Ni-Rich NMC Cathode: Part I. Experimental and Theoretical Insights** (2024)  
-  *M. Firm, J. Moškon, G. Kapun, S. Drvarič Talian, <u>A.R. Kamšek</u>, M. Štefančič, S. Hočevar, R. Dominko, M. Gaberšček*  
-  *Journal of The Electrochemical Society*, **171** (12), 120540.  
-  [![DOI](https://img.shields.io/badge/DOI-10.1149%2F1945--7111%2Fada061-blue)](https://doi.org/10.1149/1945-7111/ada061)
-  
+<span style="font-size: 0.85em;">
+**Deactivation of copper electrocatalysts during CO₂ reduction occurs via dissolution and selective redeposition mechanism**.
+  B. Tomc, M. Bele, M.A. Nazrulla, P. Šket, M. Finšgar, A.K. Surca, <u>A.R. Kamšek</u>, M. Šala, J. Šiler Hudoklin, M. Huš, B. Likozar, N. Hodnik. *Journal of Materials Chemistry A*, **13** (6), 4119–4128, 2025.
+[![DOI](https://img.shields.io/badge/DOI-10.1039%2FD4TA06466F-blue)](https://doi.org/10.1039/D4TA06466F) [![Link](https://img.shields.io/badge/Link-Research%20Highlight-%2301bc8b)](https://www.ki.si/en/news/deactivation-of-copper-during-electrochemical-c02-conversion/)
+</span>
+<span style="font-size: 0.85em;">
+**Novel Methodology of General Scaling-Approach Normalization of Impedance Parameters of Insertion Battery Electrodes – Case Study on Ni-Rich NMC Cathode: Part I. Experimental and Theoretical Insights**.
+  M. Firm, J. Moškon, G. Kapun, S. Drvarič Talian, <u>A.R. Kamšek</u>, M. Štefančič, S. Hočevar, R. Dominko, M. Gaberšček. *Journal of The Electrochemical Society*, **171** (12), 120540, 2024.  
+[![DOI](https://img.shields.io/badge/DOI-10.1149%2F1945--7111%2Fada061-blue)](https://doi.org/10.1149/1945-7111/ada061)
+</span>
