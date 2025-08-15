@@ -13,14 +13,12 @@ I contribute to this effort by writing articles, sharing insights on social medi
 <div style="display: flex; flex-wrap: wrap; gap: 1.5rem; align-items: center; margin-bottom: 2rem;">
   <!-- Left column -->
   <div style="flex: 1; min-width: 280px;">
-    <p>After seeing a curious spotted pattern in the snow, my colleague Simon Čopar and I investigated its cause and wrote a short piece for Presek, a popular science journal aimed at young natural science enthusiasts (in Slovene). See the LinkedIn post for a quick recap: </p>
-    <p>
+    <p>After seeing a curious spotted pattern in the snow, my colleague Simon Čopar and I investigated its cause and wrote a short piece for Presek, a popular science journal aimed at young natural science enthusiasts (in Slovene). </p>
+    <p style="font-size: 0.85em; color: #555;">
+      <b>Snežne pike</b>. <u>A.R. Kamšek</u>, S. Čopar. <i>Presek</i>, <b>52</b> (3), 26-27, 2025. 
       <a href="https://www.linkedin.com/feed/update/urn:li:activity:7307710277716774913/">
         <img src="https://img.shields.io/badge/View%20Post-LinkedIn-blue?logo=linkedin" alt="LinkedIn Button">
       </a>
-    </p>
-    <p style="font-size: 0.85em; color: #555;">
-      <b>Snežne pike</b>. <u>A.R. Kamšek</u>, S. Čopar. <i>Presek</i>, <b>52</b> (3), 26-27, 2025.
     </p>
   </div>
 
