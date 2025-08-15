@@ -4,11 +4,32 @@ title:
 permalink: /
 ---
 
-Welcome! I am a researcher in the Laboratory for Electrocatalysis at the National Institute of Chemistry in Ljubljana, Slovenia. 
+<div style="display: flex; flex-wrap: wrap; gap: 1.5rem; align-items: center; margin-bottom: 2rem;">
+  <!-- Left column -->
+  <div style="flex: 1; min-width: 200px;">
+    <img src="/assets/img/photo-square-closeup.jpg" alt="A photograph of Ana Rebeka Kamšek, sitting in a plane engine." style="width: 100%; max-width: 400px; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 50%;">
+  </div>
 
-I research materials for hydrogen and other clean technologies. I like turning lab results into clear visuals and explainers. This site shares my academic work and other activities.
+  <!-- Right column -->
+  <div style="flex: 2.5; min-width: 280px;">
+    <p>Welcome! I’m a researcher working at the intersection of <b>hydrogen technologies</b>, <b>materials science</b>, and <b>data science</b>. I like turning lab results into clear visuals and explainers. This site shares my academic work and other activities.</p>
+  </div>
+</div>
 
-**Where to find me**: [Google Scholar](https://scholar.google.com/citations?user=lhbwej0AAAAJ) • [ORCID](https://orcid.org/0009-0008-6247-3256) • [GitHub](https://github.com/kamsekar) • [LinkedIn](https://www.linkedin.com/in/ana-rebeka-kamsek/)
 
+<div style="display: flex; flex-wrap: wrap; gap: 1.5rem; align-items: center; margin-bottom: 2rem;">
+  <!-- Left column -->
+  <div style="flex: 3; min-width: 280px;">
+    <p><strong>Where to find me</strong>:
+      <a href="https://scholar.google.com/citations?user=lhbwej0AAAAJ">Google Scholar</a> •
+      <a href="https://orcid.org/0009-0008-6247-3256">ORCID</a> •
+      <a href="https://github.com/kamsekar">GitHub</a> •
+      <a href="https://www.linkedin.com/in/ana-rebeka-kamsek/">LinkedIn</a>
+    </p>
+  </div>
 
-This website is under construction.
+  <!-- Right column -->
+  <div style="flex: 1; min-width: 200px;">
+    <img src="/assets/img/iridium-111-sq.png" alt="A graphical depiction of a small iridium nanoparticle." style="width: 100%; max-width: 400px; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 50%;">
+  </div>
+</div>
