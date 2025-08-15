@@ -4,7 +4,17 @@ title: "About"
 permalink: /about/
 ---
 
-I’m a researcher working at the intersection of **hydrogen technologies**, **materials science**, and **data science**. I study how nanoscale structure controls catalyst performance and stability, and I enjoy translating complex results into a more accessible language. I work at the Laboratory for Electrocatalysis at the National Institute of Chemistry in Ljubljana, Slovenia. When not researching, I recharge by climbing, traveling, and learning foreign languages. If any of that resonates, get in touch (see below)!
+<div style="display: flex; flex-wrap: wrap; gap: 1.5rem; align-items: center; margin-bottom: 2rem;">
+  <!-- Left column (slightly wider) -->
+  <div style="flex: 1.4; min-width: 280px;">
+    <p>I’m a researcher working at the intersection of <b>hydrogen technologies</b>, <b>materials science</b>, and <b>data science</b>. I study how nanoscale structure controls catalyst performance and stability, and I enjoy translating complex results into a more accessible language. I work at the Laboratory for Electrocatalysis at the National Institute of Chemistry in Ljubljana, Slovenia. When not researching, I recharge by climbing, traveling, and learning foreign languages. If any of that resonates, get in touch (see below)!</p>
+  </div>
+
+  <!-- Right column -->
+  <div style="flex: 1; min-width: 280px;">
+    <img src="/assets/img/photo-square.jpg" alt="A photograph of Ana Rebeka Kamšek, sitting in a plane engine." style="width: 30vw; max-width: 150px; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 50%;">
+  </div>
+</div>
 
 ---
 
@@ -15,7 +25,7 @@ I’m a researcher working at the intersection of **hydrogen technologies**, **m
 
 ---
 
-## Selected recognition
+## Recognition
 - *Best natural science lecture (2024)* — publishing house Slovenska matica and The
 Association for Technical Culture of Slovenia.
 - *Best master’s thesis in sustainable chemistry (2022)* — Slovenian Chemical Society.
@@ -28,7 +38,7 @@ Energy and Environmental Application.
 Before my Ph.D., I had a bunch of student jobs and projects. Here are some of them:
  - I was a science communicator at a science center, Hiša eksperimentov, where I explained do-it-yourself experiments to visitors, led workshops, and developed new experiments for a traveling science exhibition.
  - I joined an international program, Pioneers into Practice by EIT Climate-KIC. It included a work placement at a start-up company, PowerUp Fuel Cells OÜ, in Tallinn, Estonia, as well as project work on wastewater treatment, and several innovation workshops.
- - I participated in a start-up accelerator with Recatalyst (who later won the Slovenian start-up of the year award), organized by EIT RawMaterials.
+ - I participated in a start-up accelerator with ReCatalyst (who later won the Slovenian start-up of the year award), organized by EIT RawMaterials.
  - I developed machine learning algorithms for tumor tissue recognition on images of eye melanoma as part of a project at the Faculty of Mathematics and Physics, University of Ljubljana.
  - I was an astronomy tutor at the Faculty of Mathematics and Physics, University of Ljubljana, and I led observations with small telescopes for groups of Physics students. 
 
