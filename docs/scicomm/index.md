@@ -10,7 +10,7 @@ I contribute to this effort by writing articles, sharing insights on social medi
 
 ---
 
-I manage the LinkedIn page of our research group: [Laboratory for Electrocatalysis - National Institute of Chemistry](https://www.linkedin.com/company/electrocat-lab/). I post short summaries of newly published papers, news about our work, and informative content explaining important concepts and methods in our field. 
+I manage the LinkedIn page of [Laboratory for Electrocatalysis - National Institute of Chemistry](https://www.linkedin.com/company/electrocat-lab/). I post short summaries of new papers, news about our work, and content explaining important concepts and methods. 
 
 
 <div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: space-between;">
@@ -51,7 +51,7 @@ I manage the LinkedIn page of our research group: [Laboratory for Electrocatalys
 
 <div style="display: flex; flex-wrap: wrap; gap: 1.5rem; align-items: center; margin-bottom: 2rem;">
   <!-- Left column -->
-  <div style="flex: 1; min-width: 280px;">
+  <div style="flex: 1; min-width: 340px;">
     <p>After seeing a curious spotted pattern in the snow, Simon Čopar and I investigated its cause and wrote a short piece for Presek, a popular science journal aimed at young natural science enthusiasts (in Slovene). </p>
     <p style="font-size: 0.85em; color: #333;">
       <b>Snežne pike</b>. <u>A.R. Kamšek</u>, S. Čopar. <i>Presek</i>, <b>52</b> (3), 26-27, 2025. 
