@@ -12,10 +12,10 @@ Here is a selection of recent scientific papers I (co-)authored. A complete list
 
 At the atomic scale, platinum and copper atoms may be randomly mixed or arranged in an <u>ordered structure</u>. We found that ordered sites near the nanoparticle surface, where the reaction occurs, are more stable during electrochemical activation, a step that prepares the catalyst for long-term use. This insight was made possible by a new methodological approach, combining <u>identical-location 4D-STEM with unsupervised learning algorithms</u> to analyze the data.
 
-**Structure–Stability Relationships in Pt-Alloy Nanoparticles Using Identical-Location Four-Dimensional Scanning Transmission Electron Microscopy and Unsupervised Machine Learning** (2025)  
-  *<u>A.R. Kamšek</u>, F. Ruiz-Zepeda, M. Bele, A. Logar, G. Dražič, N. Hodnik*  
-  *ACS Nano*, **19** (2), 2334–2344.  
-  [![DOI](https://img.shields.io/badge/DOI-10.1021%2Facsnano.4c12528-blue)](https://doi.org/10.1021/acsnano.4c12528) [![Link](https://img.shields.io/badge/Link-Research%20Highlight-%2301bc8b)](https://www.ki.si/en/news/spreminjanje-strukture-nanodelcev-iz-zlitine-platina-baker/) [![Code](https://img.shields.io/badge/Code-Repository-063970)](https://github.com/kamsekar/Local-crystal-structure-4DSTEM)
+<span style="font-size: 0.85em;">
+**Structure–Stability Relationships in Pt-Alloy Nanoparticles Using Identical-Location Four-Dimensional Scanning Transmission Electron Microscopy and Unsupervised Machine Learning**. *<u>A.R. Kamšek</u>, F. Ruiz-Zepeda, M. Bele, A. Logar, G. Dražič, N. Hodnik*. *ACS Nano*, **19** (2), 2334–2344, 2025.  
+[![DOI](https://img.shields.io/badge/DOI-10.1021%2Facsnano.4c12528-blue)](https://doi.org/10.1021/acsnano.4c12528) [![Link](https://img.shields.io/badge/Link-Research%20Highlight-%2301bc8b)](https://www.ki.si/en/news/spreminjanje-strukture-nanodelcev-iz-zlitine-platina-baker/) [![Code](https://img.shields.io/badge/Code-Repository-063970)](https://github.com/kamsekar/Local-crystal-structure-4DSTEM)
+</span>
 
 Within the ordered phase, <u>defects</u> known as anti-phase boundaries can form, as previously seen only in bulk alloys. In this work, we confirmed they also appear in nanoparticles, but found no significant effect on the catalytic activity.
 
