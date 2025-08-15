@@ -10,20 +10,27 @@ I contribute to this effort by writing articles, sharing insights on social medi
 
 ---
 
-<iframe src="https://www.linkedin.com/feed/update/urn:li:share:7307710277716774913"
-        height="500"
-        width="100%"
-        frameborder="0"
-        allowfullscreen=""
-        title="Spotted snow - LinkedIn post">
-</iframe>
+<div style="display: flex; flex-wrap: wrap; gap: 1.5rem; align-items: center; margin-bottom: 2rem;">
+  <!-- Left column -->
+  <div style="flex: 1; min-width: 280px;">
+    <p>After seeing a curious spotted pattern in the snow, my colleague Simon Čopar and I investigated its cause and wrote a short piece for Presek, a popular science journal aimed at young natural science enthusiasts (in Slovene). See the LinkedIn post for a quick recap: </p>
+    <p>
+      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7307710277716774913/">
+        <img src="https://img.shields.io/badge/View%20Post-LinkedIn-blue?logo=linkedin" alt="LinkedIn Button">
+      </a>
+    </p>
+    <p style="font-size: 0.85em; color: #000000;">
+      <b>Snežne pike</b>. <u>A.R. Kamšek</u>, S. Čopar. <i>Presek</i>, <b>52</b> (3), 26-27, 2025.
+    </p>
+  </div>
 
-Simon Čopar and I wrote an article on the phenomenon of spotted snow for Presek, a popular science journal (in Slovene).
-
-<span class="reference">
-**Snežne pike**. 
-<u>A.R. Kamšek</u>, S. Čopar. *Presek*, **52** (3), 26-27, 2025.
-</span>
+  <!-- Right column -->
+  <div style="flex: 1; min-width: 280px;">
+    <a href="https://www.linkedin.com/posts/YOUR_POST_LINK">
+      <img src="/assets/img/fotografija-pike-landscape.png" alt="Spotted snow photograph" style="max-width: 100%; border-radius: 8px;">
+    </a>
+  </div>
+</div>
 
 ---
 
