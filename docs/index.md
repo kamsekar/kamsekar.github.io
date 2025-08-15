@@ -4,22 +4,16 @@ title:
 permalink: /
 ---
 
-<div style="display: flex; flex-wrap: wrap; gap: 1.5rem; align-items: center; margin-bottom: 2rem;">
-  <!-- Left column -->
-  <div style="flex: 1; min-width: 200px;">
-    <img src="/assets/img/photo-square-closeup.jpg" alt="A photograph of Ana Rebeka Kamšek, sitting in a plane engine." style="width: 100%; max-width: 400px; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 50%;">
+<div style="display: flex; align-items: center; gap: 1.5rem; flex-wrap: wrap; margin-bottom: 2rem;">
+  <!-- Left column: small photo -->
+  <div style="flex: 0 0 auto; max-width: 120px;">
+    <img src="/assets/img/photo-square-closeup.jpg" alt="A photograph of Ana Rebeka Kamšek"
+         style="width: 100%; height: auto; object-fit: cover; border-radius: 8px;">
   </div>
 
-  <!-- Right column -->
-  <div style="flex: 2.5; min-width: 280px;">
+  <!-- Middle column: text -->
+  <div style="flex: 1 1 auto; min-width: 200px;">
     <p>Welcome! I’m a researcher working at the intersection of <b>hydrogen technologies</b>, <b>materials science</b>, and <b>data science</b>. I like turning lab results into clear visuals and explainers. This site shares my academic work and other activities.</p>
-  </div>
-</div>
-
-
-<div style="display: flex; flex-wrap: wrap; gap: 1.5rem; align-items: center; margin-bottom: 2rem;">
-  <!-- Left column -->
-  <div style="flex: 3; min-width: 280px;">
     <p><strong>Where to find me</strong>:
       <a href="https://scholar.google.com/citations?user=lhbwej0AAAAJ">Google Scholar</a> •
       <a href="https://orcid.org/0009-0008-6247-3256">ORCID</a> •
@@ -28,8 +22,10 @@ permalink: /
     </p>
   </div>
 
-  <!-- Right column -->
-  <div style="flex: 1; min-width: 200px;">
-    <img src="/assets/img/iridium-111-sq.png" alt="A graphical depiction of a small iridium nanoparticle." style="width: 100%; max-width: 400px; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 50%;">
+  <!-- Right column: small iridium graphic -->
+  <div style="flex: 0 0 auto; max-width: 120px;">
+    <img src="/assets/img/iridium-111-sq.png" alt="A graphic depiction of an iridium nanoparticle."
+         style="width: 100%; height: auto; object-fit: cover; border-radius: 8px;">
   </div>
+
 </div>
