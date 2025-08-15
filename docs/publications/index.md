@@ -8,16 +8,16 @@ Here is a selection of recent scientific papers I (co-)authored. A complete list
 
 ---
 
-**Platinum-copper nanoparticles** can catalyze the oxygen reduction reaction in a hydrogen fuel cell. Understanding which structural features do and don’t influence activity or stability helps focus research on changes that truly improve catalyst performance. 
+<u>Platinum-copper nanoparticles</u> can catalyze the oxygen reduction reaction in a hydrogen fuel cell. Understanding which structural features do and don’t influence activity or stability helps focus research on changes that truly improve catalyst performance. 
 
-At the atomic scale, platinum and copper atoms may be randomly mixed or arranged in an **ordered structure**. We found that ordered sites near the nanoparticle surface, where the reaction occurs, are more stable during electrochemical activation, a step that prepares the catalyst for long-term use. This insight was made possible by a new methodological approach, combining **identical-location 4D-STEM with unsupervised learning algorithms** to analyze the data.
+At the atomic scale, platinum and copper atoms may be randomly mixed or arranged in an <u>ordered structure</u>. We found that ordered sites near the nanoparticle surface, where the reaction occurs, are more stable during electrochemical activation, a step that prepares the catalyst for long-term use. This insight was made possible by a new methodological approach, combining <u>identical-location 4D-STEM with unsupervised learning algorithms</u> to analyze the data.
 
 **Structure–Stability Relationships in Pt-Alloy Nanoparticles Using Identical-Location Four-Dimensional Scanning Transmission Electron Microscopy and Unsupervised Machine Learning** (2025)  
   *<u>A.R. Kamšek</u>, F. Ruiz-Zepeda, M. Bele, A. Logar, G. Dražič, N. Hodnik*  
   *ACS Nano*, **19** (2), 2334–2344.  
   [![DOI](https://img.shields.io/badge/DOI-10.1021%2Facsnano.4c12528-blue)](https://doi.org/10.1021/acsnano.4c12528) [![Link](https://img.shields.io/badge/Link-Research%20Highlight-%2301bc8b)](https://www.ki.si/en/news/spreminjanje-strukture-nanodelcev-iz-zlitine-platina-baker/) [![Code](https://img.shields.io/badge/Code-Repository-063970)](https://github.com/kamsekar/Local-crystal-structure-4DSTEM)
 
-Within the ordered phase, **defects** known as anti-phase boundaries can form, as previously seen only in bulk alloys. In this work, we confirmed they also appear in nanoparticles, but found no significant effect on the catalytic activity.
+Within the ordered phase, <u>defects</u> known as anti-phase boundaries can form, as previously seen only in bulk alloys. In this work, we confirmed they also appear in nanoparticles, but found no significant effect on the catalytic activity.
 
 **Periodic anti-phase boundaries and crystal superstructures in PtCu₃ nanoparticles as fuel cell electrocatalysts** (2023)  
   *<u>A.R. Kamšek</u>, A. Meden, I. Arčon, P. Jovanovič, M. Šala, F. Ruiz-Zepeda, G. Dražić, M. Gaberšček, M. Bele, N. Hodnik*  
@@ -26,7 +26,7 @@ Within the ordered phase, **defects** known as anti-phase boundaries can form, a
 
 ---
 
-Atomically resolved microscopy images hold far more detail than the human eye can process. This review explains how computer **algorithms** can unlock that hidden information, providing consistent, objective insights and enabling the **analysis of electrocatalyst image datasets** too large or too tricky for manual work.
+Atomically resolved microscopy images hold far more detail than the human eye can process. This review explains how computer <u>algorithms</u> can unlock that hidden information, providing consistent, objective insights and enabling the <u>analysis of electrocatalyst image datasets</u> too large or too tricky for manual work.
 
 **Bringing into play automated electron microscopy data processing for understanding nanoparticulate electrocatalysts’ structure–property relationships** (2022)  
   *<u>A.R. Kamšek</u>, F. Ruiz-Zepeda, A. Pavlišič, A. Hrnjić, N. Hodnik*  
@@ -35,7 +35,7 @@ Atomically resolved microscopy images hold far more detail than the human eye ca
 
 ---
 
-Linking local structural changes to performance helps guide the design of more durable, efficient fuel-cell catalysts. Modern electrocatalysts for catalyzing the oxygen reduction reaction in hydrogen fuel cells are commonly made up of **platinum-alloy nanoparticles, dispersed over a carbon support**. Their varied structures mean they degrade differently under operating conditions. We showed that **identical-location microscopy** is an appropriate method to track the local history of specific catalyst sites, which nicely complements the bulk information gathered with other experimental methods such as electrochemical measurements. 
+Linking local structural changes to performance helps guide the design of more durable, efficient fuel-cell catalysts. Modern electrocatalysts for catalyzing the oxygen reduction reaction in hydrogen fuel cells are commonly made up of <u>platinum-alloy nanoparticles, dispersed over a carbon support</u>. Their varied structures mean they degrade differently under operating conditions. We showed that <u>identical-location microscopy</u> is an appropriate method to track the local history of specific catalyst sites, which nicely complements the bulk information gathered with other experimental methods such as electrochemical measurements. 
 
 The first paper is a comparison of different commercial electrocatalysts for the oxygen reduction reaction of acidic media, and the second is a more detailed investigation of platinum-cobalt nanoparticles at the atomic scale. 
 
@@ -51,9 +51,9 @@ The first paper is a comparison of different commercial electrocatalysts for the
 
 ---
 
-The electrocatalysts I work with typically consist of **catalytic nanoparticles** dispersed on a **support material**. Their performance can be improved not only by optimizing the noble-metal-based nanoparticles themselves, but also by tailoring the support. Certain supports, such as ceramics, can interact with nanoparticles in ways that enhance activity or otherwise contribute to an improved catalytic performance, even though the support alone is not highly catalytic.
+The electrocatalysts I work with typically consist of <u>catalytic nanoparticles</u> dispersed on a <u>support material</u>. Their performance can be improved not only by optimizing the noble-metal-based nanoparticles themselves, but also by tailoring the support. Certain supports, such as ceramics, can interact with nanoparticles in ways that enhance activity or otherwise contribute to an improved catalytic performance, even though the support alone is not highly catalytic.
 
-These three papers show examples of how using a titanium oxynitride support created beneficial **metal–support interactions** compared to the commonly used carbon support:
+These three papers show examples of how using a titanium oxynitride support created beneficial <u>metal–support interactions</u> compared to the commonly used carbon support:
  - Platinum nanoparticles for the oxygen reduction reaction (ORR) in acidic media, one of the half-reactions in a hydrogen fuel cell.
  - Ruthenium nanoparticles for the hydrogen evolution reaction (HER) in alkaline media, one of the half-reactions in water splitting.
  - Iridium nanoparticles for the oxygen evolution reaction (OER) in acidic media, the other half-reaction in water splitting.
@@ -77,9 +77,9 @@ These three papers show examples of how using a titanium oxynitride support crea
 
 These two papers step outside my usual focus on hydrogen technologies.
 
-The first explores **electrocatalytic CO₂ reduction**, a key carbon capture, utilization, and storage (CCUS) technology. Using copper catalysts speeds up the reaction, but they undergo structural changes during operation that affect long-term performance.
+The first explores <u>electrocatalytic CO₂ reduction</u>, a key carbon capture, utilization, and storage (CCUS) technology. Using copper catalysts speeds up the reaction, but they undergo structural changes during operation that affect long-term performance.
 
-The second examines Ni-rich NMC, a commercial **battery** cathode material. It proposes a methodology for reliable, accurate impedance measurements of active electrodes, along with the characterization techniques needed for meaningful interpretation of the results.
+The second examines Ni-rich NMC, a commercial <u>battery</u> cathode material. It proposes a methodology for reliable, accurate impedance measurements of active electrodes, along with the characterization techniques needed for meaningful interpretation of the results.
 
 **Deactivation of copper electrocatalysts during CO₂ reduction occurs via dissolution and selective redeposition mechanism** (2025)  
   *B. Tomc, M. Bele, M.A. Nazrulla, P. Šket, M. Finšgar, A.K. Surca, <u>A.R. Kamšek</u>, M. Šala, J. Šiler Hudoklin, M. Huš, B. Likozar, N. Hodnik*  
