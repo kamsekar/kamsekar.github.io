@@ -27,6 +27,7 @@ My research focuses on **nanostructured electrocatalysts** for sustainable energ
 ## Methods
 
 A significant part of my work involves **automated image and diffraction pattern analysis**, integrating data science and numerical simulations to extract quantitative insights from large datasets.
+
 I work with experts to combine **advanced electron microscopy**, including identical-location and 4D scanning transmission electron microscopy (IL-STEM, 4D-STEM), with **X-ray diffraction (XRD)** and **electrochemical testing** (TF-RDE, modified floating electrode).
 
 By uniting **materials** and **data science**, my research aims to provide a bottom-up understanding of catalyst performance and degradation, enabling the rational design of next-generation electrocatalysts for a sustainable hydrogen economy.
