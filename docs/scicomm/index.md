@@ -76,11 +76,11 @@ The following two articles were published in Matrika, an online journal that pre
 <span class="reference">
 **Transmission electron microscopy**. 
 <u>A.R. Kamšek</u>. *Matrika*, **7** (2), 2020.
-  [![Link](https://img.shields.io/badge/Link-Online%20article-%2301bc8b)](https://matrika.fmf.uni-lj.si/letnik-7/stevilka-2/kamsek.pdf)
+  [![Link](https://img.shields.io/badge/Link-Online%20article-%23a7ab5f)](https://matrika.fmf.uni-lj.si/letnik-7/stevilka-2/kamsek.pdf)
 </span>
 
 <span class="reference">
 **Ionizacija snovi s svetlobo in primeri uporabe v biomedicini**. 
 <u>A.R. Kamšek</u>. *Matrika*, **6** (1), 2019.
-  [![Link](https://img.shields.io/badge/Link-Online%20article-%2301bc8b)](http://matrika.fmf.uni-lj.si/letnik-6/stevilka-1/rebeka.pdf)
+  [![Link](https://img.shields.io/badge/Link-Online%20article-%23a7ab5f)](http://matrika.fmf.uni-lj.si/letnik-6/stevilka-1/rebeka.pdf)
 </span>
