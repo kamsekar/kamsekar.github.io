@@ -13,10 +13,10 @@ I contribute to this effort by writing articles, sharing insights on social medi
 I manage the LinkedIn page of our research group: [Laboratory for Electrocatalysis - National Institute of Chemistry](https://www.linkedin.com/company/electrocat-lab/). I post short summaries of newly published papers, news about our work, and informative content explaining important concepts and methods in our field. 
 
 
-<div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: space-between;">
 
   <!-- Featured Post 1 -->
-  <div style="flex: 1 1 300px; max-width: 320px; text-align: center;">
+  <div style="flex: 1 1 30%; max-width: 30%;">
     <a href="https://www.linkedin.com/feed/update/urn:li:activity:7343168674108702721/" target="_blank" rel="noopener noreferrer">
       <img src="/assets/img/250624 HER video thumbnail.png" alt="Video on hydrogen production" style="width: 100%; border-radius: 8px;" />
     </a>
@@ -29,7 +29,7 @@ I manage the LinkedIn page of our research group: [Laboratory for Electrocatalys
   </div>
 
   <!-- Featured Post 2 -->
-  <div style="flex: 1 1 300px; max-width: 320px; text-align: center;">
+  <div style="flex: 1 1 30%; max-width: 30%;">
     <a href="https://www.linkedin.com/feed/update/urn:li:activity:7353348162410942464/" target="_blank" rel="noopener noreferrer">
       <img src="/assets/img/250722 STEM carousel preview.png" alt="Guide to STEM" style="width: 100%; border-radius: 8px;" />
     </a>
@@ -42,7 +42,7 @@ I manage the LinkedIn page of our research group: [Laboratory for Electrocatalys
   </div>
 
   <!-- Featured Post 3 -->
-  <div style="flex: 1 1 300px; max-width: 320px; text-align: center;">
+  <div style="flex: 1 1 30%; max-width: 30%;">
     <a href="https://www.linkedin.com/feed/update/urn:li:activity:7348689909118840835/" target="_blank" rel="noopener noreferrer">
       <img src="/assets/img/250709 OER video thumbnail.png" alt="Oxygen bubbles in electrolyzer" style="width: 100%; border-radius: 8px;" />
     </a>
