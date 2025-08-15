@@ -87,6 +87,11 @@ html { font-size: 15px; }  /* base size */
   line-height: 1.5;
 }
 
+/* Footer background color */
+.page__footer {
+  background-color: #f5f6c6; /* your chosen shade */
+}
+
 /* Mobile tweaks */
 @media (max-width: 600px) {
   html { font-size: 14.75px; }
