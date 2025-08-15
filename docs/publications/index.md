@@ -18,6 +18,7 @@ At the atomic scale, platinum and copper atoms may be randomly mixed or arranged
 <u>A.R. Kamšek</u>, F. Ruiz-Zepeda, M. Bele, A. Logar, G. Dražič, N. Hodnik. *ACS Nano*, **19** (2), 2334–2344, 2025.
   [![DOI](https://img.shields.io/badge/DOI-10.1021%2Facsnano.4c12528-blue)](https://doi.org/10.1021/acsnano.4c12528) [![Link](https://img.shields.io/badge/Link-Research%20Highlight-%2301bc8b)](https://www.ki.si/en/news/spreminjanje-strukture-nanodelcev-iz-zlitine-platina-baker/) [![Code](https://img.shields.io/badge/Code-Repository-063970)](https://github.com/kamsekar/Local-crystal-structure-4DSTEM)
 </span>
+</div>
 
 Within the ordered phase, <u>defects</u> known as anti-phase boundaries can form, as previously seen in bulk alloys. In this work, we confirmed they also appear in nanoparticles, but found no effect on the catalytic activity.
 
@@ -27,6 +28,7 @@ Within the ordered phase, <u>defects</u> known as anti-phase boundaries can form
 <u>A.R. Kamšek</u>, A. Meden, I. Arčon, P. Jovanovič, M. Šala, F. Ruiz-Zepeda, G. Dražić, M. Gaberšček, M. Bele, N. Hodnik. *Materials Today Nano*, **23**, 100377, 2023.
   [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.mtnano.2023.100377-blue)](https://doi.org/10.1016/j.mtnano.2023.100377) [![Link](https://img.shields.io/badge/Link-Research%20Highlight-%2301bc8b)](https://www.ki.si/en/news/anti-phase-boundaries-in-platinum-copper-alloy-nanoparticles/) [![Code](https://img.shields.io/badge/Code-Repository-063970)](https://github.com/kamsekar/Defects-in-nanomaterials)
 </span>
+</div>
 
 ---
 
@@ -38,6 +40,7 @@ Atomically resolved microscopy images hold far more detail than the human eye ca
   <u>A.R. Kamšek</u>, F. Ruiz-Zepeda, A. Pavlišič, A. Hrnjić, N. Hodnik. *Current Opinion in Electrochemistry*, **35**, 101052, 2022.
   [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.coelec.2022.101052-blue)](https://doi.org/10.1016/j.coelec.2022.101052)
 </span>
+</div>
 
 ---
 
@@ -51,6 +54,7 @@ The first paper is a comparison of commercial electrocatalysts for the oxygen re
   L.J. Moriau, A. Hrnjić, A. Pavlišič, <u>A.R. Kamšek</u>, U. Petek, F. Ruiz-Zepeda, M. Šala, L. Pavko, V.S. Šelih, M. Bele, P. Jovanovič, M. Gatalo, N. Hodnik. *iScience*, **24** (2), 102102, 2021.
   [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.isci.2021.102102-blue)](https://doi.org/10.1016/j.isci.2021.102102) [![Code](https://img.shields.io/badge/Code-Repository-063970)](https://github.com/kamsekar/Atomically-resolved-images)
 </span>
+</div>
 
 <div style="margin-left: 1.5em; font-size: 0.85em;">
 <span>
@@ -58,6 +62,7 @@ The first paper is a comparison of commercial electrocatalysts for the oxygen re
   A. Hrnjić, <u>A.R. Kamšek</u>, A. Pavlišič, M. Šala, M. Bele, L. Moriau, M. Gatalo, F. Ruiz-Zepeda, P. Jovanovič, N. Hodnik. *Electrochimica Acta*, **388**, 138513, 2021.
   [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.electacta.2021.138513-blue)](https://doi.org/10.1016/j.electacta.2021.138513) [![Code](https://img.shields.io/badge/Code-Repository-063970)](https://github.com/kamsekar/Atomically-resolved-images)
 </span>
+</div>
 
 ---
 
@@ -74,6 +79,7 @@ These three papers show examples of how using a titanium oxynitride support crea
   A. Hrnjić, <u>A.R. Kamšek</u>, L. Bijelić, A. Logar, N. Maselj, M. Smiljanić, J. Trputec, N. Vovk, L. Pavko, F. Ruiz-Zepeda, M. Bele, P. Jovanovič, N. Hodnik. *ACS Catalysis*, **14** (4), 2473–2486, 2024.
   [![DOI](https://img.shields.io/badge/DOI-10.1021%2Facscatal.3c03883-blue)](https://doi.org/10.1021/acscatal.3c03883) [![Link](https://img.shields.io/badge/Link-Research%20Highlight-%2301bc8b)](https://www.ki.si/en/news/metal-support-interaction-between-titanium-oxynitride-and-pt-nanoparticles-enables-efficient-low-pt-loaded-high-performance-electrodes-at-relevant-oxygen-reduction-reaction-current-densities/) [![Code](https://img.shields.io/badge/Code-Repository-063970)](https://github.com/kamsekar/Atomically-resolved-images)
 </span>
+</div>
 
 <div style="margin-left: 1.5em; font-size: 0.85em;">
 <span>
@@ -81,6 +87,7 @@ These three papers show examples of how using a titanium oxynitride support crea
   M. Smiljanić, M. Bele, L. Pavko, A. Hrnjić, F. Ruiz-Zepeda, L. Bijelić, <u>A.R. Kamšek</u>, M. Nuhanović, A. Marsel, L. Gašparič, A. Kokalj, N. Hodnik. *Chemical Engineering Journal*, 164204, 2025.
   [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.cej.2025.164204-blue)](https://doi.org/10.1016/j.cej.2025.164204) [![Link](https://img.shields.io/badge/Link-Research%20Highlight-%2301bc8b)](https://www.ki.si/en/news/manj-plemenitih-kovin-vec-vodika-v-alkalnem-elektrolitu/)
 </span>
+</div>
 
 <div style="margin-left: 1.5em; font-size: 0.85em;">
 <span>
@@ -88,6 +95,7 @@ These three papers show examples of how using a titanium oxynitride support crea
   G. Koderman Podboršek, L. Suhadolnik, A. Lončar, M. Bele, A. Hrnjić, Ž. Marinko, J. Kovač, A. Kokalj, L. Gašparič, A.K. Surca, <u>A.R. Kamšek</u>, G. Dražić, M. Gaberšček, N. Hodnik, P. Jovanovič. *ACS Catalysis*, **12** (24), 15135–15145, 2022.
   [![DOI](https://img.shields.io/badge/DOI-10.1021%2Facscatal.2c04160-blue)](https://doi.org/10.1021/acscatal.2c04160) [![Link](https://img.shields.io/badge/Link-Research%20Highlight-%2301bc8b)](https://www.ki.si/en/news/povecanje-stabilnosti-keramicnega-titanovega-oksinitridnega-nosilca-med-elektrolizo-vode-preko-iridija/)  [![Code](https://img.shields.io/badge/Code-Repository-063970)](https://github.com/kamsekar/Particle-segmentation)
 </span>
+</div>
 
 ---
 
@@ -103,6 +111,7 @@ The second examines Ni-rich NMC, a commercial <u>battery</u> cathode material. I
   B. Tomc, M. Bele, M.A. Nazrulla, P. Šket, M. Finšgar, A.K. Surca, <u>A.R. Kamšek</u>, M. Šala, J. Šiler Hudoklin, M. Huš, B. Likozar, N. Hodnik. *Journal of Materials Chemistry A*, **13** (6), 4119–4128, 2025.
   [![DOI](https://img.shields.io/badge/DOI-10.1039%2FD4TA06466F-blue)](https://doi.org/10.1039/D4TA06466F) [![Link](https://img.shields.io/badge/Link-Research%20Highlight-%2301bc8b)](https://www.ki.si/en/news/deactivation-of-copper-during-electrochemical-c02-conversion/)
 </span>
+</div>
 
 <div style="margin-left: 1.5em; font-size: 0.85em;">
 <span>
@@ -110,3 +119,4 @@ The second examines Ni-rich NMC, a commercial <u>battery</u> cathode material. I
   M. Firm, J. Moškon, G. Kapun, S. Drvarič Talian, <u>A.R. Kamšek</u>, M. Štefančič, S. Hočevar, R. Dominko, M. Gaberšček. *Journal of The Electrochemical Society*, **171** (12), 120540, 2024.
   [![DOI](https://img.shields.io/badge/DOI-10.1149%2F1945--7111%2Fada061-blue)](https://doi.org/10.1149/1945-7111/ada061)
 </span>
+</div>
