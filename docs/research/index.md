@@ -14,7 +14,7 @@ My research focuses on **nanostructured electrocatalysts** for sustainable energ
   </div>
   
   <!-- Right column -->
-  <div style="flex: 2; min-width: 280px;">
+  <div style="flex: 1.8; min-width: 280px;">
     <p>These devices rely on catalysts based on precious metals such as <b>platinum</b> (Pt) and <b>iridium</b> (Ir), whose scarcity and cost drive the need for more efficient, durable, and resource-lean designs.</p>
     <p>I investigate the <b>structure–property relationships</b> of Pt- and Ir-based nanoparticle catalysts on high-surface-area supports.</p>
     <p>Atomic-scale structural features – including <b>alloy ordering</b>, <b>planar defects</b>, <b>degradation mechanisms</b>, and <b>metal–support interactions</b> – have a profound impact on catalytic activity and stability. Understanding them is essential for designing catalysts that meet industrial performance and lifetime requirements.</p>
@@ -35,6 +35,6 @@ My research focuses on **nanostructured electrocatalysts** for sustainable energ
   <!-- Right column -->
   <div style="flex: 1; min-width: 200px;">
     <img src="/assets/img/graphite2.png" alt="A graphic depiction of graphite."
-         style="width: 100%; max-width: 500px; aspect-ratio: 1 / 1; object-fit: cover;">
+         style="width: 100%; max-width: 500px; object-fit: cover;">
   </div>
 </div>
