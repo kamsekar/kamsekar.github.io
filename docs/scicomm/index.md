@@ -26,7 +26,7 @@ I contribute to this effort by writing articles, sharing insights on social medi
 
   <!-- Right column -->
   <div style="flex: 1; min-width: 280px;">
-    <a href="https://www.linkedin.com/posts/YOUR_POST_LINK">
+    <a href="https://www.linkedin.com/feed/update/urn:li:activity:7307710277716774913">
       <img src="/assets/img/fotografija-pike-landscape.png" alt="Spotted snow photograph" style="max-width: 100%; border-radius: 8px;">
     </a>
   </div>
