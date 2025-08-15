@@ -10,11 +10,59 @@ I contribute to this effort by writing articles, sharing insights on social medi
 
 ---
 
+I manage the LinkedIn page of our research group: [Laboratory for Electrocatalysis - National Institute of Chemistry](https://www.linkedin.com/company/electrocat-lab/). I post short summaries of newly published papers, news about our work, and informative content explaining important concepts and methods in our field. 
+
+
+<div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
+
+  <!-- Featured Post 1 -->
+  <div style="flex: 1 1 300px; max-width: 320px; text-align: center;">
+    <a href="https://www.linkedin.com/feed/update/urn:li:activity:7343168674108702721/" target="_blank" rel="noopener noreferrer">
+      <img src="/assets/img/250624 HER video thumbnail.png" alt="Video on hydrogen production" style="width: 100%; border-radius: 8px;" />
+    </a>
+    <p style="margin-top: 0.5rem; font-size: 0.9rem;">
+      A video showing hydrogen production in a water electrolyzer. 
+    </p>
+    <a href="https://www.linkedin.com/feed/update/urn:li:activity:7343168674108702721/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/View%20on-LinkedIn-blue?logo=linkedin" alt="View on LinkedIn" />
+    </a>
+  </div>
+
+  <!-- Featured Post 2 -->
+  <div style="flex: 1 1 300px; max-width: 320px; text-align: center;">
+    <a href="https://www.linkedin.com/feed/update/urn:li:activity:7353348162410942464/" target="_blank" rel="noopener noreferrer">
+      <img src="/assets/img/250722 STEM carousel preview.png" alt="Guide to STEM" style="width: 100%; border-radius: 8px;" />
+    </a>
+    <p style="margin-top: 0.5rem; font-size: 0.9rem;">
+      A short guide to scanning transmission electron microscopy with examples.
+    </p>
+    <a href="https://www.linkedin.com/feed/update/urn:li:activity:7353348162410942464/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/View%20on-LinkedIn-blue?logo=linkedin" alt="View on LinkedIn" />
+    </a>
+  </div>
+
+  <!-- Featured Post 3 -->
+  <div style="flex: 1 1 300px; max-width: 320px; text-align: center;">
+    <a href="https://www.linkedin.com/feed/update/urn:li:activity:7348689909118840835/" target="_blank" rel="noopener noreferrer">
+      <img src="/assets/img/250709 OER video thumbnail.png" alt="Oxygen bubbles in electrolyzer" style="width: 100%; border-radius: 8px;" />
+    </a>
+    <p style="margin-top: 0.5rem; font-size: 0.9rem;">
+      A video showing how oxygen bubbles form in a water electrolyzer.
+    </p>
+    <a href="https://www.linkedin.com/feed/update/urn:li:activity:7348689909118840835/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/View%20on-LinkedIn-blue?logo=linkedin" alt="View on LinkedIn" />
+    </a>
+  </div>
+
+</div>
+
+---
+
 <div style="display: flex; flex-wrap: wrap; gap: 1.5rem; align-items: center; margin-bottom: 2rem;">
   <!-- Left column -->
   <div style="flex: 1; min-width: 280px;">
-    <p>After seeing a curious spotted pattern in the snow, my colleague Simon Čopar and I investigated its cause and wrote a short piece for Presek, a popular science journal aimed at young natural science enthusiasts (in Slovene). </p>
-    <p style="font-size: 0.85em; color: #555;">
+    <p>After seeing a curious spotted pattern in the snow, Simon Čopar and I investigated its cause and wrote a short piece for Presek, a popular science journal aimed at young natural science enthusiasts (in Slovene). </p>
+    <p style="font-size: 0.85em; color: #333;">
       <b>Snežne pike</b>. <u>A.R. Kamšek</u>, S. Čopar. <i>Presek</i>, <b>52</b> (3), 26-27, 2025. 
       <a href="https://www.linkedin.com/feed/update/urn:li:activity:7307710277716774913/">
         <img src="https://img.shields.io/badge/View%20Post-LinkedIn-blue?logo=linkedin" alt="LinkedIn Button">
