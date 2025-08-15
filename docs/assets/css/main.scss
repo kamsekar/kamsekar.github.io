@@ -21,12 +21,12 @@ h1, h2, h3, h4, h5, h6,
   font-family: 'Merriweather', serif;
   font-weight: 700;
   line-height: 1.3;
-  color: #111;
+  color: #144273; /* Navy headings */
 }
 
 /* === Compact, elegant typography & spacing === */
-html { font-size: 15.25px; }  /* base size */
-.page__content { font-size: 0.92rem; line-height: 1.6; }  /* body text slightly smaller */
+html { font-size: 15px; }  /* base size */
+.page__content { font-size: 0.94rem; line-height: 1.6; }  /* body text slightly smaller */
 
 .page__content h1 { font-size: 1.75rem; margin: 1.1rem 0 0.6rem; }
 .page__content h2 { font-size: 1.35rem; margin: 1rem 0 0.5rem; }
@@ -46,13 +46,14 @@ html { font-size: 15.25px; }  /* base size */
 
 /* Subtler link color and hover */
 .page__content a { text-decoration: none; }
-.page__content a:hover { text-decoration: underline; }
+.page__content a:hover { color: #144273; text-decoration: underline; }
 
 /* Title, nav size & spacing */
-.masthead .site-title { font-size: 1.6rem; }
+.masthead .site-title { font-size: 1.6rem; color: #144273; }
 .greedy-nav .visible-links > li > a {
   font-size: 0.95rem;
   padding: 0.35rem 0.6rem;
+  color: #144273; 
 }
 
 /* DOI badges not so loud */
@@ -63,7 +64,7 @@ html { font-size: 15.25px; }  /* base size */
 /* Horizontal rules lighter */
 .page__content hr {
   border: 0;
-  border-top: 1px solid rgba(0,0,0,0.08);
+  border-top: 2px solid #c2c75a;  /*border-top: 1px solid rgba(0,0,0,0.08);*/
   margin: 1rem 0;
 }
 
