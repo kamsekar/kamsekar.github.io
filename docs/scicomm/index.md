@@ -23,9 +23,6 @@ I manage the LinkedIn page of our research group: [Laboratory for Electrocatalys
     <p style="margin-top: 0.5rem; font-size: 0.9rem;">
       A video showing hydrogen production in a water electrolyzer. 
     </p>
-    <a href="https://www.linkedin.com/feed/update/urn:li:activity:7343168674108702721/" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/View%20on-LinkedIn-blue?logo=linkedin" alt="View on LinkedIn" />
-    </a>
   </div>
 
   <!-- Featured Post 2 -->
@@ -34,11 +31,8 @@ I manage the LinkedIn page of our research group: [Laboratory for Electrocatalys
       <img src="/assets/img/250722 STEM carousel preview.png" alt="Guide to STEM" style="width: 100%; border-radius: 8px;" />
     </a>
     <p style="margin-top: 0.5rem; font-size: 0.9rem;">
-      A short guide to scanning transmission electron microscopy with examples.
+      A short guide to scanning transmission electron microscopy.
     </p>
-    <a href="https://www.linkedin.com/feed/update/urn:li:activity:7353348162410942464/" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/View%20on-LinkedIn-blue?logo=linkedin" alt="View on LinkedIn" />
-    </a>
   </div>
 
   <!-- Featured Post 3 -->
@@ -49,9 +43,6 @@ I manage the LinkedIn page of our research group: [Laboratory for Electrocatalys
     <p style="margin-top: 0.5rem; font-size: 0.9rem;">
       A video showing how oxygen bubbles form in a water electrolyzer.
     </p>
-    <a href="https://www.linkedin.com/feed/update/urn:li:activity:7348689909118840835/" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/View%20on-LinkedIn-blue?logo=linkedin" alt="View on LinkedIn" />
-    </a>
   </div>
 
 </div>
