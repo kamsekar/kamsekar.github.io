@@ -56,9 +56,9 @@ html { font-size: 15.25px; }  /* base size */
 }
 
 /* DOI badges not so loud */
-.page__content img[alt="DOI"] { height: 17px; }
-.page__content img[alt="Link"] { height: 17px; }
-.page__content img[alt="Code"] { height: 17px; }
+.page__content img[alt="DOI"] { height: 15px; }
+.page__content img[alt="Link"] { height: 15px; }
+.page__content img[alt="Code"] { height: 15px; }
 
 /* Horizontal rules lighter */
 .page__content hr {
