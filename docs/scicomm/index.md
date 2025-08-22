@@ -73,14 +73,14 @@ I manage the LinkedIn page of [Laboratory for Electrocatalysis - National Instit
 
 <div style="display: flex; flex-wrap: wrap; gap: 1.5rem; align-items: center; margin-bottom: 2rem;">
   <!-- Left column -->
-  <div style="flex: 1.3; min-width: 280px;">
+  <div style="flex: 1; min-width: 280px;">
     <a href="https://www.nocmoc.eu/">
       <img src="/assets/img/he-delavnica.jpg" alt="Resources for a workshop on materials and microscopy" style="max-width: 100%; border-radius: 8px;">
     </a>
   </div>
 
   <!-- Right column -->
-  <div style="flex: 1; min-width: 280px;">
+  <div style="flex: 1.3; min-width: 280px;">
     <p>I designed and led a workshop on materials and microscopy for the general public. Participants examined catalyst samples and played a &ldquo;spot-the-difference&rdquo; game with electron microscopy images, learning about nanoparticles and how they transform during chemical reactions.</p>
     <p>The workshop was part of the <b>European Researchers’ Night 2024</b> at the science center Hiša eksperimentov.</p>
     <p style="font-size: 0.85em; color: #333;">
