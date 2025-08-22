@@ -57,8 +57,7 @@ I manage the LinkedIn page of [Laboratory for Electrocatalysis - National Instit
       <b>Snežne pike</b>. <u>A.R. Kamšek</u>, S. Čopar. <i>Presek</i>, <b>52</b> (3), 26-27, 2025. 
       <a href="https://www.linkedin.com/feed/update/urn:li:activity:7307710277716774913/">
         <img src="https://img.shields.io/badge/View%20Post-LinkedIn-blue" alt="LinkedIn Button">
-      </a>
-      <a href="http://www.presek.si/arhiv.php?letnik=52&stevilka=3/">
+      </a><a href="http://www.presek.si/arhiv.php?letnik=52&stevilka=3/">
         <img src="https://img.shields.io/badge/Link-Journal%20website-%23a7ab5f" alt="Website Button">
       </a>
     </p>
