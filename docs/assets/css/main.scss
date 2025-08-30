@@ -3,7 +3,7 @@
 ---
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Merriweather:wght@400;700&display=swap');
 
-@import "minimal-mistakes/skins/default";   // or your chosen skin
+@import "minimal-mistakes/skins/default";
 @import "minimal-mistakes";
 
 /* === Font override === */
@@ -90,7 +90,7 @@ html { font-size: 15px; }  /* base size */
 
 /* Footer background color */
 .page__footer {
-  background-color: #f7f9e0; /* your chosen shade */
+  background-color: #f7f9e0;
 }
 
 /* Mobile tweaks */
@@ -98,3 +98,45 @@ html { font-size: 15px; }  /* base size */
   html { font-size: 14.75px; }
   .greedy-nav .visible-links > li > a { padding: 0.3rem 0.5rem; }
 }
+
+/* === Mobile-friendly layout utilities === */
+/* Prefix with u- to avoid theme collisions */
+
+.u-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1rem;
+  align-items: start;
+}
+
+.u-grid--tight   { gap: 0.5rem; }
+.u-grid--roomy   { gap: 1.5rem; }
+.u-cols-2        { grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); }
+.u-cols-3        { grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); }
+
+/* Flex version (for equal heights) */
+.u-row { display: flex; flex-wrap: wrap; gap: 1rem; }
+.u-row > * { flex: 1 1 280px; min-width: 0; }
+
+/* Stack: tidy vertical rhythm inside a block */
+.u-stack > * + * { margin-top: 0.75rem; }
+
+/* Make media fluid */
+.page__content img,
+.page__content video,
+.page__content svg { max-width: 100%; height: auto; }
+
+/* Iframes: full-width, keep aspect ratio */
+.page__content iframe {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border: 0;
+}
+
+/* Tables: allow horizontal scroll on small screens */
+.u-table-scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+.u-table-scroll table { width: 100%; border-collapse: collapse; }
+.u-table-scroll th, .u-table-scroll td { padding: 0.5rem; }
+
+/* Code blocks: prevent layout breakage */
+.page__content pre, .page__content code { overflow-x: auto; }
