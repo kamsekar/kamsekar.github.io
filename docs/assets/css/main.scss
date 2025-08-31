@@ -141,13 +141,22 @@ html { font-size: 15px; }  /* base size */
 /* Code blocks: prevent layout breakage */
 .page__content pre, .page__content code { overflow-x: auto; }
 
-/* Reusable hero: desktop = left | text | right, mobile = text, two images, bottom text */
-.u-hero{ display:grid; gap:1.5rem; }
-.u-hero__intro{ grid-area:intro; }
-.u-hero__left{ grid-area:left; }
-.u-hero__right{ grid-area:right; }
-.u-hero__below{ grid-area:below; }
-.u-hero img{ max-width:100%; height:auto; display:block; border-radius:8px; }
+/* Reusable hero: desktop = left | text | right; mobile = text, two images, bottom text */
+.u-hero { 
+  display: grid; 
+  gap: 1.5rem; 
+  row-gap: 1rem;              /* slightly tighter vertical spacing */
+}
+.u-hero__intro  { grid-area: intro; }
+.u-hero__left   { grid-area: left; }
+.u-hero__right  { grid-area: right; }
+.u-hero__below  { grid-area: below; }
+.u-hero img     { max-width: 100%; height: auto; display: block; border-radius: 8px; }
+
+/* Remove default figure margins inside hero & collapse adjacent paragraph margins */
+.u-hero figure { margin: 0; }
+.u-hero__intro > :last-child { margin-bottom: 0; }
+.u-hero__below > :first-child { margin-top: 0; }
 
 /* Mobile-first: text full width, images side-by-side, bottom text full width */
 @media (max-width: 899px){
@@ -171,5 +180,44 @@ html { font-size: 15px; }  /* base size */
   }
 }
 
-/* Safety: stop long URLs/words from causing horizontal scroll */
-.page__content{ overflow-wrap:anywhere; }
+/* === Opt-in circular images (you control where to apply) === */
+/* Always circular, any viewport */
+.u-avatar {
+  border-radius: 50%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  overflow: hidden;
+}
+
+/* Circular only on desktop */
+@media (min-width: 900px) {
+  .u-avatar--desktop {
+    border-radius: 50%;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    overflow: hidden;
+  }
+}
+
+/* Circular only on mobile */
+@media (max-width: 899px) {
+  .u-avatar--mobile {
+    border-radius: 50%;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    overflow: hidden;
+  }
+}
+
+/* If the bitmap is already square and you want no cropping, just round edges */
+.u-circle-if-square { border-radius: 50%; }
+
+/* Optional: simple visibility helpers */
+.u-show-mobile { display: none !important; }
+@media (max-width: 600px) {
+  .u-hide-mobile { display: none !important; }
+  .u-show-mobile { display: block !important; }
+}
+
+/* Safety: stop long URLs/words from causing horizontal scroll globally */
+.page__content { overflow-wrap: anywhere; }
