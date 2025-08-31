@@ -4,13 +4,21 @@ title: "Science Communication"
 permalink: /scicomm/
 ---
 
+<style>
+  /* Flip only on desktop so the second row shows image | text there,
+     while mobile keeps text → image for readability. */
+  @media (min-width: 900px) {
+    .flip-on-desktop { flex-direction: row-reverse; }
+  }
+</style>
+
 Science communication is, in a very broad sense, the practice of sharing scientific knowledge with audiences beyond the expert community. It explains and critically evaluates science, and as such, bridges the gap between research and public understanding. 
 
 I contribute to this effort by writing articles, sharing insights on social media, and giving occasional talks that make scientific topics more approachable and engaging.
 
 ---
 
-I manage the LinkedIn page of [Laboratory for Electrocatalysis - National Institute of Chemistry](https://www.linkedin.com/company/electrocat-lab/). I post short summaries of new papers, news about our work, and content explaining important concepts and methods. 
+I manage the LinkedIn page of [Laboratory for Electrocatalysis - National Institute of Chemistry](https://www.linkedin.com/company/electrocat-lab/). I post summaries of new papers, news about our work, and content that explains important concepts and methods. 
 
 
 <div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: space-between;">
@@ -54,34 +62,32 @@ I manage the LinkedIn page of [Laboratory for Electrocatalysis - National Instit
   <div style="flex: 1.3; min-width: 280px;">
     <p>After seeing a curious spotted pattern in the snow, Simon Čopar and I investigated its cause and wrote a short piece for <b>Presek, a popular science journal</b> aimed at young natural science enthusiasts (in Slovene). </p>
     <p style="font-size: 0.85em; color: #333;">
-      <b>Snežne pike</b>. <u>A.R. Kamšek</u>, S. Čopar. <i>Presek</i>, <b>52</b> (3), 26-27, 2025. 
-      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7307710277716774913/">
-        <img src="https://img.shields.io/badge/View%20Post-LinkedIn-blue" alt="LinkedIn Button">
-      </a><a href="http://www.presek.si/arhiv.php?letnik=52&stevilka=3/">
-        <img src="https://img.shields.io/badge/Link-Journal%20website-%23a7ab5f" alt="Website Button">
-      </a>
-    </p>
+  <b>Snežne pike</b>. <u>A.R. Kamšek</u>, S. Čopar. <i>Presek</i>, <b>52</b> (3), 26-27, 2025. 
+  <span style="display: inline-flex; gap: .5rem; vertical-align: middle;">
+    <a href="https://www.linkedin.com/feed/update/urn:li:activity:7307710277716774913/"
+       style="text-decoration: none; display: inline-block; line-height: 0;">
+      <img src="https://img.shields.io/badge/View%20Post-LinkedIn-blue" alt="LinkedIn Button">
+    </a>
+    <a href="http://www.presek.si/arhiv.php?letnik=52&stevilka=3/"
+       style="text-decoration: none; display: inline-block; line-height: 0;">
+      <img src="https://img.shields.io/badge/Link-Journal%20website-%23a7ab5f" alt="Website Button">
+    </a>
+  </span>
+</p>
   </div>
 
   <!-- Right column -->
   <div style="flex: 1; min-width: 280px;">
     <a href="https://www.linkedin.com/feed/update/urn:li:activity:7307710277716774913">
-      <img src="/assets/img/fotografija-pike-landscape.jpg" alt="Spotted snow photograph" style="max-width: 100%; border-radius: 8px;">
+      <img src="/assets/img/fotografija-pike-landscape.jpg" alt="Spotted snow photograph" style="max-width: 80%; border-radius: 8px;">
     </a>
   </div>
 </div>
 
 ---
 
-<div style="display: flex; flex-wrap: wrap; gap: 1.5rem; align-items: center; margin-bottom: 2rem;">
-  <!-- Left column -->
-  <div style="flex: 1; min-width: 280px;">
-    <a href="https://www.nocmoc.eu/">
-      <img src="/assets/img/he-delavnica.jpg" alt="Resources for a workshop on materials and microscopy" style="max-width: 100%; border-radius: 8px;">
-    </a>
-  </div>
-
-  <!-- Right column -->
+<div class="flip-on-desktop" style="display: flex; flex-wrap: wrap; gap: 1.5rem; align-items: flex-start; margin-bottom: 2rem;">
+  <!-- Left column (text first in DOM so mobile shows text above image) -->
   <div style="flex: 1.3; min-width: 280px;">
     <p>I designed and led a workshop on materials and microscopy for the general public. Participants examined catalyst samples and played a &ldquo;spot-the-difference&rdquo; game with electron microscopy images, learning about nanoparticles and how they transform during chemical reactions.</p>
     <p>The workshop was part of the <b>European Researchers’ Night 2024</b> at the science center Hiša eksperimentov.</p>
@@ -90,6 +96,13 @@ I manage the LinkedIn page of [Laboratory for Electrocatalysis - National Instit
         <img src="https://img.shields.io/badge/Link-Event%20website-%23a7ab5f" alt="Website Button">
       </a>
     </p>
+  </div>
+
+  <!-- Right column (image) -->
+  <div style="flex: 1; min-width: 280px;">
+    <a href="https://www.nocmoc.eu/2024.html">
+      <img src="/assets/img/he-delavnica.jpg" alt="Resources for a workshop on materials and microscopy" style="max-width: 80%; border-radius: 8px;">
+    </a>
   </div>
 </div>
 
