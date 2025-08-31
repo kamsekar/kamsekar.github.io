@@ -5,16 +5,10 @@ permalink: /
 description: "Researcher bridging hydrogen tech, materials science, and data visualization. Explore my work in academic research and science communication."
 ---
 
-<div style="display:flex; align-items:center; gap:1.5rem; flex-wrap:nowrap; margin-bottom:2rem;">
+<div class="u-hero" markdown="1">
 
-  <!-- Left column: small photo -->
-  <div style="flex: 0 0 auto; width: 200px;">
-    <img src="/assets/img/photo-square-closeup.jpg" alt="A photograph of Ana Rebeka Kamšek"
-         style="width: 100%; height: auto; object-fit: cover; border-radius:50%;">
-  </div>
-
-  <!-- Middle column: text -->
-  <div style="flex: 1 1 auto; min-width:0;">
+  <!-- Top text: full width on mobile, center column on desktop -->
+  <div class="u-hero__intro">
     <p>Welcome! I’m a researcher working at the intersection of <b>hydrogen technologies</b>, <b>materials science</b>, and <b>data science</b>. I enjoy translating complex scientific concepts into visuals, explainers, and content for diverse audiences, from academics to the general public.</p>
     <p><strong>Where to find me</strong>:<br>
       <a href="https://scholar.google.com/citations?user=lhbwej0AAAAJ">Google Scholar</a> •
@@ -24,14 +18,20 @@ description: "Researcher bridging hydrogen tech, materials science, and data vis
     </p>
   </div>
 
-  <!-- Right column: small iridium graphic -->
-  <div style="flex: 0 0 auto; width: 200px;">
-    <img src="/assets/img/iridium-111-sq.png" alt="A graphic depiction of an iridium nanoparticle."
-         style="width: 100%; height: auto; object-fit: cover; border-radius: 8px;">
+  <!-- Two images: side-by-side on mobile; become left/right flanking the text on desktop -->
+  <div class="u-hero__media">
+    <figure class="u-hero__left">
+      <img src="/assets/img/photo-square-closeup.jpg" alt="A photograph of Ana Rebeka Kamšek" class="u-round-lg">
+    </figure>
+    <figure class="u-hero__right">
+      <img src="/assets/img/iridium-111-sq.png" alt="A graphic depiction of an iridium nanoparticle.">
+    </figure>
+  </div>
+
+  <!-- Bottom text: full width on mobile and desktop (spans all columns) -->
+  <div class="u-hero__below">
+    Science and technology are fascinating, but they're often locked behind jargon and technical details. I believe in making them accessible and impactful through science communication, data visualization, and engaging digital content. I've worked in [academic research]({{ "/research/"   relative_url }}) and [public engagement]({{ "/scicomm/"   relative_url }}), and this site shares some of that work.
+    Interested in collaborating? [Get in touch!]({{ "/about/"   relative_url }})
   </div>
 
 </div>
-
-Science and technology are fascinating, but they're often locked behind jargon and technical details. I believe in making them accessible and impactful through science communication, data visualization, and engaging digital content. I've worked in [academic research]({{ "/research/"   relative_url }}) and [public engagement]({{ "/scicomm/"   relative_url }}), and this site shares some of that work.
-
-Interested in collaborating? [Get in touch!]({{ "/about/"   relative_url }})
