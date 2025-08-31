@@ -153,12 +153,11 @@ html { font-size: 15px; }  /* base size */
 .u-hero__below  { grid-area: below; }
 .u-hero img     { max-width: 100%; height: auto; display: block; }
 
-/* Consistent top buffer before the first hero row */
-.page__content > .u-hero:first-child {
-  padding-top: 1.25rem;           /* try 1.5rem if you want more space */
+.u-hero { 
+  padding-top: 1.5rem;
 }
 @media (min-width: 900px){
-  .page__content > .u-hero:first-child { padding-top: 1.5rem; }
+  .u-hero { padding-top: 2rem; }
 }
 
 /* Remove default figure margins inside hero & collapse adjacent paragraph margins */
