@@ -79,7 +79,9 @@ I manage the LinkedIn page of [Laboratory for Electrocatalysis - National Instit
   <!-- Right column -->
   <div style="flex: 1; min-width: 280px;">
     <a href="https://www.linkedin.com/feed/update/urn:li:activity:7307710277716774913">
-      <img src="/assets/img/fotografija-pike-landscape.jpg" alt="Spotted snow photograph" style="max-width: 80%; border-radius: 8px;">
+      <img src="/assets/img/fotografija-pike-landscape.jpg"
+     alt="Spotted snow photograph"
+     style="width: min(80vw, 100%); height: auto; display: block; margin-inline: auto; border-radius: 8px;">
     </a>
   </div>
 </div>
@@ -92,7 +94,7 @@ I manage the LinkedIn page of [Laboratory for Electrocatalysis - National Instit
     <p>I designed and led a workshop on materials and microscopy for the general public. Participants examined catalyst samples and played a &ldquo;spot-the-difference&rdquo; game with electron microscopy images, learning about nanoparticles and how they transform during chemical reactions.</p>
     <p>The workshop was part of the <b>European Researchers’ Night 2024</b> at the science center Hiša eksperimentov.</p>
     <p style="font-size: 0.85em; color: #333;">
-      <a href="https://www.nocmoc.eu/">
+      <a href="https://www.nocmoc.eu/2024.html">
         <img src="https://img.shields.io/badge/Link-Event%20website-%23a7ab5f" alt="Website Button">
       </a>
     </p>
@@ -101,7 +103,9 @@ I manage the LinkedIn page of [Laboratory for Electrocatalysis - National Instit
   <!-- Right column (image) -->
   <div style="flex: 1; min-width: 280px;">
     <a href="https://www.nocmoc.eu/2024.html">
-      <img src="/assets/img/he-delavnica.jpg" alt="Resources for a workshop on materials and microscopy" style="max-width: 80%; border-radius: 8px;">
+      <img src="/assets/img/he-delavnica.jpg"
+     alt="Resources for a workshop on materials and microscopy"
+     style="width: min(80vw, 100%); height: auto; display: block; margin-inline: auto; border-radius: 8px;">
     </a>
   </div>
 </div>
