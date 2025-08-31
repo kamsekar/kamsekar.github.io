@@ -9,8 +9,9 @@ My research focuses on **nanostructured electrocatalysts** for sustainable energ
 <div style="display: flex; flex-wrap: wrap; gap: 1.5rem; align-items: center; margin-bottom: 2rem;">
   <!-- Left column (slightly wider) -->
   <div style="flex: 1; min-width: 200px;">
-    <img src="/assets/img/NP-APB-square.png" alt="A graphic depiction of a platinum-alloy nanoparticle with a defect."
-         style="width: 100%; max-width: 500px; aspect-ratio: 1 / 1; object-fit: cover;">
+    <img src="/assets/img/NP-APB-square.png"
+     alt="A graphic depiction of a platinum-alloy nanoparticle with a defect."
+     style="width: min(60vw, 100%, 500px); aspect-ratio: 1 / 1; object-fit: cover; display:block; margin-inline:auto;">
   </div>
   
   <!-- Right column -->
@@ -35,7 +36,8 @@ My research focuses on **nanostructured electrocatalysts** for sustainable energ
   
   <!-- Right column -->
   <div style="flex: 1; min-width: 200px;">
-    <img src="/assets/img/graphite2.png" alt="A graphic depiction of graphite."
-         style="width: 100%; max-width: 500px; object-fit: cover;">
+    <img src="/assets/img/graphite2.png"
+     alt="A graphic depiction of graphite."
+     style="width: min(60vw, 100%, 500px); object-fit: cover; display:block; margin-inline:auto;">
   </div>
 </div>
