@@ -151,10 +151,11 @@ html { font-size: 15px; }  /* base size */
 .u-hero__left   { grid-area: left; }
 .u-hero__right  { grid-area: right; }
 .u-hero__below  { grid-area: below; }
-.u-hero img     { max-width: 100%; height: auto; display: block; border-radius: 8px; }
+.u-hero img     { max-width: 100%; height: auto; display: block; }
 
 /* Remove default figure margins inside hero & collapse adjacent paragraph margins */
 .u-hero figure { margin: 0; }
+.u-hero__intro > :first-child { margin-top: 1; }
 .u-hero__intro > :last-child { margin-bottom: 0; }
 .u-hero__below > :first-child { margin-top: 0; }
 
