@@ -19,7 +19,7 @@ description: "Researcher bridging hydrogen tech, materials science, and data vis
 
   <!-- Two images -->
   <figure class="u-hero__left">
-    <img src="/assets/img/photo-square-closeup.jpg" alt="A photograph of Ana Rebeka Kamšek"> class="u-avatar"
+    <img src="/assets/img/photo-square-closeup.jpg" alt="A photograph of Ana Rebeka Kamšek" class="u-avatar"> 
   </figure>
 
   <figure class="u-hero__right">
