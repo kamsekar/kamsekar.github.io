@@ -15,7 +15,9 @@ permalink: /about/
 
   <!-- Right column -->
   <div style="flex: 1; min-width: 280px;">
-    <img src="/assets/img/photo-square.jpg" alt="A photograph of Ana Rebeka Kamšek, sitting in a plane engine." style="width: 100%; max-width: 400px; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 50%;">
+    <img src="/assets/img/photo-square.jpg"
+     alt="A photograph of Ana Rebeka Kamšek, sitting in a plane engine."
+     style="width: min(75vw, 400px); aspect-ratio: 1 / 1; object-fit: cover; border-radius: 50%; display: block; margin-inline: auto;">
   </div>
 </div>
 
