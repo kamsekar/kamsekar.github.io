@@ -155,7 +155,7 @@ html { font-size: 15px; }  /* base size */
 
 /* Remove default figure margins inside hero & collapse adjacent paragraph margins */
 .u-hero figure { margin: 0; }
-.u-hero__intro > :first-child { margin-top: 1; }
+.u-hero__intro > :first-child { margin-top: 0; }
 .u-hero__intro > :last-child { margin-bottom: 0; }
 .u-hero__below > :first-child { margin-top: 0; }
 
@@ -177,8 +177,14 @@ html { font-size: 15px; }  /* base size */
     grid-template-areas:
       "left intro right"
       "below below below";
-    align-items: center;
+    align-items: start;
   }
+}
+
+@media (min-width: 900px){
+  .u-hero__left,
+  .u-hero__intro,
+  .u-hero__right { padding-top: 0.25rem; }
 }
 
 /* === Opt-in circular images (you control where to apply) === */
