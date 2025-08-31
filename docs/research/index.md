@@ -24,24 +24,24 @@ My research focuses on **nanostructured electrocatalysts** for sustainable energ
   <br>
 </div>
 
-## Methods
-
-<div style="display: flex; flex-wrap: wrap; gap: 1.5rem; align-items: center; margin-bottom: 2rem;">
-  <!-- Left column (slightly wider) -->
+<div style="display: flex; flex-wrap: wrap; gap: 1.5rem; align-items: flex-start; margin-bottom: 2rem;">
+  <!-- Left column: heading + text -->
   <div style="flex: 2.5; min-width: 280px;">
+    <h2 id="methods" style="margin: 0 0 .5rem 0;">Methods</h2>
     <p>A significant part of my work involves <b>automated image and diffraction pattern analysis</b> to extract quantitative insights from large datasets.</p>
     <p>I work with experts to combine <b>advanced electron microscopy</b>, including identical-location and 4D scanning transmission electron microscopy (IL-STEM, 4D-STEM), with <b>X-ray diffraction (XRD)</b> and <b>electrochemical testing</b> (TF-RDE, modified floating electrode).</p>
     <p>By uniting <b>materials</b> and <b>data science</b>, my research aims to provide a bottom-up understanding of catalyst performance and degradation, enabling the rational design of next-generation electrocatalysts for a sustainable hydrogen economy.</p>
   </div>
-  
-  <!-- Right column -->
+
+  <!-- Right column: image (≤60% of screen on phones, centered; height capped to avoid tall gaps) -->
   <div style="flex: 1; min-width: 200px;">
     <img src="/assets/img/graphite2.png"
-     alt="A graphic depiction of graphite."
-     style="width: min(60vw, 100%, 500px);
-            max-height: min(60vw, 400px);
-            height: auto;
-            object-fit: contain;
-            display:block; margin-inline:auto;">
+         alt="A graphic depiction of graphite."
+         style="width: min(60vw, 100%, 500px);
+                height: auto;
+                max-height: min(60vw, 360px);
+                object-fit: contain;
+                display: block;
+                margin-inline: auto;">
   </div>
 </div>
