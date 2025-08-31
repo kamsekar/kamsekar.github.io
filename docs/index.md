@@ -4,7 +4,10 @@ title:
 permalink: /
 description: "Researcher bridging hydrogen tech, materials science, and data visualization. Explore my work in academic research and science communication."
 ---
-<div class="u-hero">
+<div class="u-hero"
+     style="padding-block-start: clamp(1rem, 2.5vw, 2rem);
+            padding-top: clamp(1rem, 2.5vw, 2rem);
+            align-items: start;">
 
   <!-- Top text -->
   <div class="u-hero__intro">
