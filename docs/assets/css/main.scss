@@ -153,8 +153,13 @@ html { font-size: 15px; }  /* base size */
 .u-hero__below  { grid-area: below; }
 .u-hero img     { max-width: 100%; height: auto; display: block; }
 
-/* Consistent space before the homepage hero row */
-.page__content > .u-hero { margin-top: 1.1rem; } /* match your h1 top margin */
+/* Consistent top buffer before the first hero row */
+.page__content > .u-hero:first-child {
+  padding-top: 1.25rem;           /* try 1.5rem if you want more space */
+}
+@media (min-width: 900px){
+  .page__content > .u-hero:first-child { padding-top: 1.5rem; }
+}
 
 /* Remove default figure margins inside hero & collapse adjacent paragraph margins */
 .u-hero figure { margin: 0; }
