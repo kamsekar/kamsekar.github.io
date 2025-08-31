@@ -140,3 +140,45 @@ html { font-size: 15px; }  /* base size */
 
 /* Code blocks: prevent layout breakage */
 .page__content pre, .page__content code { overflow-x: auto; }
+
+/* Generic "hero" pattern: mobile-first stack, 2-up media on phones, 3-col on desktop */
+.u-hero {
+  display: grid;
+  gap: 1.5rem;
+  grid-template-columns: 1fr;              /* stack by default */
+}
+.u-hero__intro,
+.u-hero__below { width: 100%; }
+
+.u-hero__media {
+  display: grid;                            /* phones: place the two images side-by-side */
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+}
+
+.u-hero img {
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+/* Desktop: left image | text | right image ; below spans full width */
+@media (min-width: 900px) {
+  .u-hero {
+    grid-template-columns: 200px 1fr 200px;
+    grid-template-areas:
+      "left intro right"
+      "below below below";
+    align-items: center;
+  }
+  .u-hero__intro  { grid-area: intro; }
+  .u-hero__below  { grid-area: below; }
+  .u-hero__media  { display: contents; }    /* flatten so left/right can be placed by areas */
+  .u-hero__left   { grid-area: left; }
+  .u-hero__right  { grid-area: right; }
+}
+
+/* Safety: prevent long URLs/words causing horizontal overflow */
+.page__content { overflow-wrap: anywhere; }
