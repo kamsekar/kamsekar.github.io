@@ -38,6 +38,10 @@ My research focuses on **nanostructured electrocatalysts** for sustainable energ
   <div style="flex: 1; min-width: 200px;">
     <img src="/assets/img/graphite2.png"
      alt="A graphic depiction of graphite."
-     style="width: min(60vw, 100%, 500px); object-fit: cover; display:block; margin-inline:auto;">
+     style="width: min(60vw, 100%, 500px);
+            max-height: min(60vw, 400px);
+            height: auto;
+            object-fit: contain;
+            display:block; margin-inline:auto;">
   </div>
 </div>
