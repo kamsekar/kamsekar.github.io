@@ -94,7 +94,9 @@ I manage the LinkedIn page of [Laboratory for Electrocatalysis - National Instit
     <p>After seeing a curious spotted pattern in the snow, Simon Čopar and I investigated its cause and wrote a short piece for <b>Presek, a popular science journal</b> aimed at young natural science enthusiasts (in Slovene). </p>
     <p>Following publication, I gave a talk on the phenomenon at the journal’s seminar, aimed primarily at school teachers. </p>
     <p style="font-size: 0.85em; color: #333;">
-  <b>Snežne pike</b>. <u>A.R. Kamšek</u>, S. Čopar. <i>Presek</i>, <b>52</b> (3), 26-27, 2025. 
+      <b>Snežne pike</b>. <u>A.R. Kamšek</u>, S. Čopar. <i>Presek</i>, <b>52</b> (3), 26-27, 2025. 
+    </p>
+    <p style="font-size: 0.85em; color: #333;">
   <span style="display: inline-flex; gap: .5rem; vertical-align: middle;">
     <a href="https://www.linkedin.com/feed/update/urn:li:activity:7307710277716774913/"
        style="text-decoration: none; display: inline-block; line-height: 0;">
