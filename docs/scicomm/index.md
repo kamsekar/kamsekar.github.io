@@ -57,6 +57,35 @@ I manage the LinkedIn page of [Laboratory for Electrocatalysis - National Instit
 
 ---
 
+<div class="flip-on-desktop" style="display: flex; flex-wrap: wrap; gap: 1.5rem; align-items: flex-start; margin-bottom: 2rem;">
+  <!-- Left column (text first in DOM so mobile shows text above image) -->
+  <div style="flex: 1.3; min-width: 280px;">
+    <p>I gave a lecture on the natural environment and clean energy at a public event. The event, hosted by <b>Slovenska matica</b> (publishing house), presented me with an award for the best natural-science lecture in its 2024 competition. </p>
+    <p style="font-size: 0.85em; color: #333;">
+      <span style="display: inline-flex; gap: .5rem; vertical-align: middle;">
+        <a href="https://youtu.be/OIx4RC_QkdE?si=BnTuHjOZLyhPndKc&t=3286">
+          <img src="https://img.shields.io/badge/Link-Lecture%20recording-%23a7ab5f" alt="Lecture recording">
+        </a>
+        <a href="https://www.slovenska-matica.si/rezultati-natecajev-za-mlade-ob-160-letnici-slovenske-matice/"
+         style="text-decoration: none; display: inline-block; line-height: 0;">
+          <img src="https://img.shields.io/badge/Link-Award%20announcement-%23a7ab5f" alt="Award announcement">
+        </a>
+      </span>
+    </p>
+  </div>
+
+  <!-- Right column (image) -->
+  <div style="flex: 1; min-width: 280px;">
+    <a href="https://youtu.be/OIx4RC_QkdE?si=BnTuHjOZLyhPndKc&t=3286">
+      <img src="/assets/img/slovenska-matica.jpg"
+     alt="A lecture on preserving the natural environment at the Slovenska matica publishing house."
+     style="width: min(80vw, 100%); height: auto; display: block; margin-inline: auto; border-radius: 8px;">
+    </a>
+  </div>
+</div>
+
+---
+
 <div style="display: flex; flex-wrap: wrap; gap: 1.5rem; align-items: center; margin-bottom: 2rem;">
   <!-- Left column -->
   <div style="flex: 1.3; min-width: 280px;">
