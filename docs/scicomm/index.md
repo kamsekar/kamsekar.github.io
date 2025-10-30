@@ -92,6 +92,7 @@ I manage the LinkedIn page of [Laboratory for Electrocatalysis - National Instit
   <!-- Left column -->
   <div style="flex: 1.3; min-width: 280px;">
     <p>After seeing a curious spotted pattern in the snow, Simon Čopar and I investigated its cause and wrote a short piece for <b>Presek, a popular science journal</b> aimed at young natural science enthusiasts (in Slovene). </p>
+    <p>Following publication, I gave a talk on the phenomenon at the journal’s seminar, aimed primarily at school teachers. </p>
     <p style="font-size: 0.85em; color: #333;">
   <b>Snežne pike</b>. <u>A.R. Kamšek</u>, S. Čopar. <i>Presek</i>, <b>52</b> (3), 26-27, 2025. 
   <span style="display: inline-flex; gap: .5rem; vertical-align: middle;">
@@ -102,6 +103,10 @@ I manage the LinkedIn page of [Laboratory for Electrocatalysis - National Instit
     <a href="http://www.presek.si/arhiv.php?letnik=52&stevilka=3/"
        style="text-decoration: none; display: inline-block; line-height: 0;">
       <img src="https://img.shields.io/badge/Link-Journal%20website-%23AB895F" alt="Website Button">
+    </a>
+    <a href="https://www.dmfa.si/ODrustvu/NovicaPrikaz.aspx?itemid=892"
+       style="text-decoration: none; display: inline-block; line-height: 0;">
+      <img src="https://img.shields.io/badge/Link-Seminar%20website-%23AB895F" alt="Website Button">
     </a>
   </span>
 </p>
