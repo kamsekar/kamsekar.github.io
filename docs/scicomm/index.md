@@ -60,17 +60,17 @@ I manage the LinkedIn page of [Laboratory for Electrocatalysis - National Instit
 <div class="flip-on-desktop" style="display: flex; flex-wrap: wrap; gap: 1.5rem; align-items: flex-start; margin-bottom: 2rem;">
   <!-- Left column (text first in DOM so mobile shows text above image) -->
   <div style="flex: 1.3; min-width: 280px;">
-    <p>I gave a lecture on the natural environment and clean energy at a public event. The event, hosted by <b>Slovenska matica</b> (publishing house), presented me with an award for the best natural-science lecture in its 2024 competition. </p>
+    <p>I gave a lecture on the natural environment and clean energy at a public event. The event, hosted by <b>the publishing house Slovenska matica</b>, presented me with an award for the best natural-science lecture in its 2024 competition. </p>
     <p>Video courtesy of Slovenska matica.</p>
     <p style="font-size: 0.85em; color: #333;">
       <span style="display: inline-flex; gap: .5rem; vertical-align: middle;">
         <a href="https://youtu.be/OIx4RC_QkdE?si=BnTuHjOZLyhPndKc&t=3286"
           style="text-decoration: none; display: inline-block; line-height: 0;">
-          <img src="https://img.shields.io/badge/Link-Lecture%20recording-%23aaaaaa" alt="Lecture recording">
+          <img src="https://img.shields.io/badge/Link-Lecture%20recording-%23AB895F" alt="Lecture recording">
         </a>
         <a href="https://www.slovenska-matica.si/rezultati-natecajev-za-mlade-ob-160-letnici-slovenske-matice/"
          style="text-decoration: none; display: inline-block; line-height: 0;">
-          <img src="https://img.shields.io/badge/Link-Award%20announcement-%23aaaaaa" alt="Award announcement">
+          <img src="https://img.shields.io/badge/Link-Award%20announcement-%23AB895F" alt="Award announcement">
         </a>
       </span>
     </p>
@@ -101,7 +101,7 @@ I manage the LinkedIn page of [Laboratory for Electrocatalysis - National Instit
     </a>
     <a href="http://www.presek.si/arhiv.php?letnik=52&stevilka=3/"
        style="text-decoration: none; display: inline-block; line-height: 0;">
-      <img src="https://img.shields.io/badge/Link-Journal%20website-%23aaaaaa" alt="Website Button">
+      <img src="https://img.shields.io/badge/Link-Journal%20website-%23AB895F" alt="Website Button">
     </a>
   </span>
 </p>
@@ -126,7 +126,7 @@ I manage the LinkedIn page of [Laboratory for Electrocatalysis - National Instit
     <p>The workshop was part of the <b>European Researchers’ Night 2024</b> at the science center Hiša eksperimentov.</p>
     <p style="font-size: 0.85em; color: #333;">
       <a href="https://www.nocmoc.eu/2024.html">
-        <img src="https://img.shields.io/badge/Link-Event%20website-%23aaaaaa" alt="Website Button">
+        <img src="https://img.shields.io/badge/Link-Event%20website-%23AB895F" alt="Website Button">
       </a>
     </p>
   </div>
