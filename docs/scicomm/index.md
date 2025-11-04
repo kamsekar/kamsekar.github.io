@@ -61,23 +61,24 @@ I manage the LinkedIn page of [Laboratory for Electrocatalysis - National Instit
   <!-- Left column -->
   <div style="flex: 1.3; min-width: 280px;">
     <p>In a public lecture, I discussed how automation is changing science, how open science keeps research trustworthy, and our team's recent work on automating data analysis. The lecture was part of <b>European Researchers' Night</b> at the science center Hiša eksperimentov. </p>
+    <p>Automation in science was also the topic of an article I published in <b>Alternator, an online journal</b> for everyone interested in science.</p>
+    <p style="font-size: 0.85em; color: #333;">
+      <b>Avtomatizacija (lahko) osvobaja misel</b>. <u>A.R. Kamšek</u>. <i>Alternator</i>, <b>20</b>, 2025. 
+    </p>
     <p style="font-size: 0.85em; color: #333;">
   <span style="display: inline-flex; gap: .5rem; vertical-align: middle;">
     <a href="https://www.linkedin.com/feed/update/urn:li:activity:7379509414593970177/"
        style="text-decoration: none; display: inline-block; line-height: 0;">
       <img src="https://img.shields.io/badge/View%20Post-LinkedIn-blue" alt="LinkedIn Button">
     </a>
-    <a href="https://www.nocmoc.eu/#dogajanje">
+    <a href="https://www.nocmoc.eu/#dogajanje"
+       style="text-decoration: none; display: inline-block; line-height: 0;">
         <img src="https://img.shields.io/badge/Link-Event%20website-%23AB895F" alt="Website Button">
     </a>
-  </span>
-    <p>Automation in science was also the topic of an article I published in <b>Alternator, an online journal</b> for everyone interested in science.</p>
-    <p style="font-size: 0.85em; color: #333;">
-      <b>Avtomatizacija (lahko) osvobaja misel</b>. <u>A.R. Kamšek</u>. <i>Alternator</i>, <b>20</b>, 2025. 
-    </p>
     <a href="https://doi.org/10.3986/alternator.2025.20">
         <img src="https://img.shields.io/badge/Link-Journal%20article-%23a7ab5f" alt="Article Button">
     </a>
+  </span>
 </p>
   </div>
 
