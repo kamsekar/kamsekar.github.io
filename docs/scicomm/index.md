@@ -75,7 +75,8 @@ I manage the LinkedIn page of [Laboratory for Electrocatalysis - National Instit
        style="text-decoration: none; display: inline-block; line-height: 0;">
         <img src="https://img.shields.io/badge/Link-Event%20website-%23AB895F" alt="Website Button">
     </a>
-    <a href="https://doi.org/10.3986/alternator.2025.20">
+    <a href="https://doi.org/10.3986/alternator.2025.20"
+       style="text-decoration: none; display: inline-block; line-height: 0;">
         <img src="https://img.shields.io/badge/Link-Journal%20article-%23a7ab5f" alt="Article Button">
     </a>
   </span>
