@@ -60,8 +60,8 @@ I manage the LinkedIn page of [Laboratory for Electrocatalysis - National Instit
 <div style="display: flex; flex-wrap: wrap; gap: 1.5rem; align-items: center; margin-bottom: 2rem;">
   <!-- Left column -->
   <div style="flex: 1.3; min-width: 280px;">
-    <p>How is automation changing science? Tasks that once required painstaking manual analysis can now be handled by computers. But with today’s data explosion, automation isn’t just useful, but essential. In a public lecture, I shared examples of this shift, discussed how open science helps keep research trustworthy, and presented our team’s recent work on automating data analysis. </p>
-    <p>The lecture was part of <b>European Researchers' Night</b> at the science center Hiša eksperimentov. </p>
+    <p>How is automation changing science? Computers can now handle tasks that once required painstaking manual analysis. But with today’s data explosion, automation isn’t just useful, but essential. </p>
+    <p>In a public lecture, I shared examples of this shift, discussed how open science helps keep research trustworthy, and presented our team’s recent work on automating data analysis. The lecture was part of <b>European Researchers' Night</b> at the science center Hiša eksperimentov. </p>
     <p style="font-size: 0.85em; color: #333;">
   <span style="display: inline-flex; gap: .5rem; vertical-align: middle;">
     <a href="https://www.linkedin.com/feed/update/urn:li:activity:7379509414593970177/"
@@ -72,6 +72,10 @@ I manage the LinkedIn page of [Laboratory for Electrocatalysis - National Instit
         <img src="https://img.shields.io/badge/Link-Event%20website-%23AB895F" alt="Website Button">
     </a>
   </span>
+    <p>Automation in science was also the topic of an article I published in <b>Alternator, an online journal</b> for everyone interested in science.</p>
+    <p style="font-size: 0.85em; color: #333;">
+      <b>Avtomatizacija (lahko) osvobaja misel</b>. <u>A.R. Kamšek</u>. <i>Alternator</i>, <b>20</b>, 2025. 
+    </p>
 </p>
   </div>
 
