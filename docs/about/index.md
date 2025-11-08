@@ -31,9 +31,10 @@ permalink: /about/
 ---
 
 ## Recognition
-- *Best natural science lecture (2024)* — publishing house Slovenska matica and The
+- *[Best personal academic website - Accessible SciComm award](https://theacademicdesigner.com/2025/winners-of-the-best-personal-academic-websites-contest-2025/) (2025)* - The Academic Designer
+- *[Best natural science lecture](https://www.slovenska-matica.si/rezultati-natecajev-za-mlade-ob-160-letnici-slovenske-matice/) (2024)* — publishing house Slovenska matica and The
 Association for Technical Culture of Slovenia.
-- *Best master’s thesis in sustainable chemistry (2022)* — Slovenian Chemical Society.
+- *[Best master’s thesis in sustainable chemistry](https://www.aquafil.com/magazine/localnews/velik-potencial-nagrajenih-studijskih-del-iz-trajnostne-kemije/) (2022)* — Slovenian Chemical Society.
 - *Best poster (2022)* — Slovenian-Bavarian Summer School: Materials for
 Energy and Environmental Application.
 
