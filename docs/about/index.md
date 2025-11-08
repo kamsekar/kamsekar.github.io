@@ -31,7 +31,7 @@ permalink: /about/
 ---
 
 ## Recognition
-- *[Best personal academic website - Accessible SciComm award](https://theacademicdesigner.com/2025/winners-of-the-best-personal-academic-websites-contest-2025/) (2025)* - The Academic Designer
+- *[Best personal academic website - Accessible SciComm award](https://theacademicdesigner.com/2025/winners-of-the-best-personal-academic-websites-contest-2025/) (2025)* — The Academic Designer LLC.
 - *[Best natural science lecture](https://www.slovenska-matica.si/rezultati-natecajev-za-mlade-ob-160-letnici-slovenske-matice/) (2024)* — publishing house Slovenska matica and The
 Association for Technical Culture of Slovenia.
 - *[Best master’s thesis in sustainable chemistry](https://www.aquafil.com/magazine/localnews/velik-potencial-nagrajenih-studijskih-del-iz-trajnostne-kemije/) (2022)* — Slovenian Chemical Society.
