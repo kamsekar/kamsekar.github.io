@@ -60,7 +60,7 @@ I manage the LinkedIn page of [Laboratory for Electrocatalysis - National Instit
 <div style="display: flex; flex-wrap: wrap; gap: 1.5rem; align-items: center; margin-bottom: 2rem;">
   <!-- Left column -->
   <div style="flex: 1.3; min-width: 280px;">
-    <p>In a public lecture, I discussed how automation is changing science, how open science keeps research trustworthy, and how our team automates data analysis. The event was part of <b>European Researchers' Night</b> at the science center Hiša eksperimentov. </p>
+    <p>In a public lecture, I discussed how automation is changing science, how open science keeps research trustworthy, and how our team automates data analysis. Part of <b>European Researchers' Night</b> at the science center Hiša eksperimentov. </p>
     <p>Automation in science was also the topic of an article I published in <b>Alternator, an online journal</b> for everyone interested in science.</p>
     <p style="font-size: 0.85em; color: #333;">
       <b>Avtomatizacija (lahko) osvobaja misel</b>. <u>A.R. Kamšek</u>. <i>Alternator</i>, <b>20</b>, 2025. 
