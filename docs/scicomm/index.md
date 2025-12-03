@@ -86,7 +86,7 @@ I manage the LinkedIn page of [Laboratory for Electrocatalysis - National Instit
   <!-- Right column -->
   <div style="flex: 1; min-width: 280px;">
     <a href="https://www.linkedin.com/feed/update/urn:li:activity:7379509414593970177/">
-      <img src="/assets/img/automation-lecture.jpg"
+      <img src="/assets/img/automation-lecture2.jpg"
      alt="A lecture on automation in science at a science center."
      style="width: min(80vw, 100%); height: auto; display: block; margin-inline: auto; border-radius: 8px;">
     </a>
