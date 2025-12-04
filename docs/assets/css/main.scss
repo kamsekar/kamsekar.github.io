@@ -89,6 +89,10 @@ html { font-size: 15px; }  /* base size */
   color: #666;
 }
 
+.reference a {
+  color: inherit;
+}
+
 /* Footer background color */
 .page__footer {
   background-color: #f7f9e0;
