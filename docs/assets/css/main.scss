@@ -46,6 +46,16 @@ html { font-size: 15px; }  /* base size */
   padding-right: 1rem;  /* gives that bit of whitespace on mobile */
 }
 
+@media (max-width: 820px) {
+  .page,
+  .page__inner-wrap,
+  .initial-content,
+  .page__content {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+
 /* Subtler link color and hover */
 .page__content a { text-decoration: none; }
 .page__content a:hover { text-decoration: underline; }
