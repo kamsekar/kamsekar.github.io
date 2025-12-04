@@ -23,10 +23,11 @@ permalink: /about/
 
 ---
 
-## Education
-- *Ph.D. in Chemistry* (2025), University of Ljubljana. Thesis: [Crystal structure of platinum and iridium nanocomposite electrocatalysts](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=170176&lang=eng)
-- *M.Sc. in Physics* (2021), University of Ljubljana. Thesis: [Algorithms for image analysis of atomically resolved electron micrographs](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=129882&lang=eng) (in Slovene)
-- *B.Sc. in Physics* (2019), University of Ljubljana; a semester abroad at TU Berlin.
+## Skills
+- **Computers:** Python, R, data analysis and visualisation, machine learning, image analysis.
+- **Communication:** public talks, science writing, and collaboration in interdisciplinary teams.
+- **Languages:** Slovene, English, German, Russian, and Croatian (conversational).
+- **Research:** experimental and data-driven materials science, especially for hydrogen technologies ([more]({{ "/research/" | relative_url }})).
 
 ---
 
@@ -47,6 +48,13 @@ Before my Ph.D., I had a bunch of student jobs and projects. Here are some of th
  - I participated in a start-up accelerator with ReCatalyst (who later won the Slovenian start-up of the year award), organized by EIT RawMaterials.
  - I developed machine learning algorithms for tumor tissue recognition on images of eye melanoma as part of a project at the Faculty of Mathematics and Physics, University of Ljubljana.
  - I was an astronomy tutor at the Faculty of Mathematics and Physics, University of Ljubljana, and I led observations with small telescopes for groups of Physics students. 
+
+---
+
+## Education
+- *Ph.D. in Chemistry* (2025), University of Ljubljana. Thesis: [Crystal structure of platinum and iridium nanocomposite electrocatalysts](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=170176&lang=eng)
+- *M.Sc. in Physics* (2021), University of Ljubljana. Thesis: [Algorithms for image analysis of atomically resolved electron micrographs](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=129882&lang=eng) (in Slovene)
+- *B.Sc. in Physics* (2019), University of Ljubljana; a semester abroad at TU Berlin.
 
 ---
 
