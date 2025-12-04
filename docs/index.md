@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 
+title: "Ana Rebeka Kamšek – Hydrogen, materials, data"
 permalink: /
 description: "Researcher bridging hydrogen tech, materials science, and data visualization. Explore my work in academic research and science communication."
 ---
