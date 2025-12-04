@@ -59,5 +59,5 @@ If you have questions about my work, see a way to collaborate, or are interested
   <input type="email" id="email" name="_replyto" required><br/><br/>
   <label for="message">Message</label><br/>
   <textarea id="message" name="message" rows="6" required></textarea><br/><br/>  
-  <button type="submit">Send</button>
+  <button type="submit" class="btn btn--primary">Send</button>
 </form>
