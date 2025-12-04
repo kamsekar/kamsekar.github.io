@@ -80,6 +80,19 @@ html { font-size: 15px; }  /* base size */
   margin: 0.45rem 0 0.25rem;
 }
 
+/* Make primary buttons navy like headings */
+.btn--primary {
+  background-color: #144273;
+  border-color: #144273;
+  color: #fff;
+}
+
+.btn--primary:hover,
+.btn--primary:focus {
+  background-color: #0f335a; /* a bit darker navy */
+  border-color: #0f335a;
+}
+
 /* Indented references with a smaller font */
 .reference {
   font-size: 0.85em;
