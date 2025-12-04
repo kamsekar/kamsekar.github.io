@@ -11,6 +11,9 @@ plugins:
 # Minimal Mistakes skin options: air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
 minimal_mistakes_skin: "default"
 
+atom_feed:
+  hide: true
+
 # Site author details
 author:
   name: "Ana Rebeka Kamšek"
