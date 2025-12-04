@@ -31,6 +31,7 @@ description: "Researcher bridging hydrogen tech, materials science, and data vis
 
   <!-- Bottom text (HTML links so they work inside HTML block) -->
   <div class="u-hero__below">
+    <br>
     <h2>Hydrogen, materials, data</h2> 
     <p>Science and technology are fascinating, but they're often locked behind jargon and technical details. I believe in making them accessible and impactful through science communication, data visualization, and engaging digital content. I've worked in       <a href="{{ "/research/" | relative_url }}">academic research</a> and <a href="{{ "/scicomm/" | relative_url }}">public engagement</a>, and this site shares some of that work.</p>
     <p>Interested in collaborating? <a href="{{ "/about/" | relative_url }}">Get in touch!</a></p>
