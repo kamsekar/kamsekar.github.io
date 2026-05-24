@@ -9,9 +9,9 @@ Here is a selection of recent scientific papers I (co-)authored. A complete list
 ---
 <h2>On the crystal structure of nanoparticles</h2>
 
-Modern electrocatalysts for the oxygen reduction reaction in a hydrogen fuel cell are commonly composed of <u>platinum-alloy nanoparticles on a carbon support</u>. Their varied structures mean they degrade differently under operating conditions. Understanding which structural features do and don’t influence activity or stability helps focus research on changes that truly improve catalyst performance. 
+Modern electrocatalysts for the oxygen reduction reaction in a hydrogen fuel cell are commonly composed of <u>platinum-alloy nanoparticles on a carbon support</u>. Their varied structures mean they degrade differently under operating conditions. Understanding which structural features do and don’t influence activity or stability helps focus research on what truly improves catalyst performance. 
 
-At the atomic scale, platinum and copper atoms may be randomly mixed or arranged in an <u>ordered structure</u>. We found that ordered sites near the particle surface, where the reaction occurs, are more stable during electrochemical activation that prepares the catalyst for long-term use. This was made possible by a new approach that combines <u>identical-location 4D-STEM with unsupervised learning</u>.
+At the atomic scale, platinum and copper atoms may be randomly mixed or arranged in an <u>ordered structure</u>. We found that ordered sites near the particle surface, where the reaction occurs, are more stable when preparing the catalyst for long-term use. This was possible with a new approach that combines <u>identical-location 4D-STEM with unsupervised learning</u>.
 
 <span class="reference">
 **Structure–Stability Relationships in Pt-Alloy Nanoparticles Using Identical-Location Four-Dimensional Scanning Transmission Electron Microscopy and Unsupervised Machine Learning**. 
@@ -29,7 +29,7 @@ Within the ordered phase, <u>defects</u> known as anti-phase boundaries can form
 
 ---
 
-We showed how <u>identical-location microscopy</u> tracks the local history of platinum-cobalt nanoparticles at different scales, which complements the bulk information obtained with other methods like electrochemical measurements. 
+We showed how <u>identical-location microscopy</u> tracks the local history of platinum-cobalt nanoparticles at different scales, which complements the bulk information from other methods like electrochemical measurements. 
 
 The first paper compares commercial electrocatalysts for the oxygen reduction reaction in acidic media, and the second is a detailed investigation of platinum-cobalt nanoparticles at the atomic scale. 
 
@@ -58,7 +58,7 @@ Atomically resolved microscopy images hold far more detail than the human eye ca
 ---
 <h2>What about the support?</h2>
 
-The performance of electrocatalysts with supported nanoparticles can be improved not only by optimizing the noble-metal-based nanoparticles, but also by tailoring the support. Certain supports, such as ceramics, can interact with nanoparticles in ways that improve the catalytic performance, even though the support alone is not highly catalytic.
+The performance of electrocatalysts with supported nanoparticles can be improved not only by optimizing the noble-metal-based nanoparticles, but also by tailoring the support. Certain supports, such as ceramics, can interact with nanoparticles in ways that improve the catalytic performance.
 
 These three papers are examples of how using a titanium oxynitride support created beneficial <u>metal–support interactions</u> compared to the commonly used carbon support for reactions in hydrogen fuel cells and water electrolyzers.
 
