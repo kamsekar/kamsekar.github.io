@@ -36,12 +36,8 @@ description: "Researcher bridging hydrogen tech, materials science, and data vis
     <br>
     <h2>Hydrogen, materials, data</h2> 
     <p>Science and technology are fascinating, but they're often locked behind jargon and technical details. I believe in making them accessible and impactful through science communication, data visualization, and engaging digital content. I've worked in       <a href="{{ "/research/" | relative_url }}">academic research</a> and <a href="{{ "/scicomm/" | relative_url }}">public engagement</a>, and this site shares some of that work.</p>
-  </div>
-
----
-
-If you have questions about my work, see a way to collaborate, or are interested in thoughtful science outreach (or just want to say hi), please get in touch! [LinkedIn](https://www.linkedin.com/in/ana-rebeka-kamsek/) is also a good way to reach me. 
-
+     <p>If you have questions about my work, see a way to collaborate, or are interested in thoughtful science outreach (or just want to say hi), please get in touch! [LinkedIn](https://www.linkedin.com/in/ana-rebeka-kamsek/) is also a good way to reach me. </p>
+       <p>
 <form action="https://formspree.io/f/xzzvwkjg" method="POST">
   <label for="name">Name</label><br/>
   <input type="text" id="name" name="name" required><br/><br/>
@@ -50,6 +46,43 @@ If you have questions about my work, see a way to collaborate, or are interested
   <label for="message">Message</label><br/>
   <textarea id="message" name="message" rows="6" required></textarea><br/><br/>  
   <button type="submit" class="btn btn--primary">Send</button>
-</form>
+</form></p>
+  </div>
+
+  <!-- Bottom text -->
+<div class="u-hero__below">
+
+  <h2>Hydrogen, materials, data</h2>
+
+  <p>
+    Science and technology are fascinating, but they're often locked behind jargon and technical details.
+    I believe in making them accessible and impactful through science communication, data visualization,
+    and engaging digital content. I've worked in
+    <a href="{{ "/research/" | relative_url }}">academic research</a>
+    and
+    <a href="{{ "/scicomm/" | relative_url }}">public engagement</a>,
+    and this site shares some of that work.
+  </p>
+
+  <p>
+    If you have questions about my work, see a way to collaborate, or are interested in thoughtful
+    science outreach (or just want to say hi), please get in touch!
+    <a href="https://www.linkedin.com/in/ana-rebeka-kamsek/" target="_blank" rel="noopener">
+      LinkedIn
+    </a>
+    is also a good way to reach me.
+  </p>
+
+  <form action="https://formspree.io/f/xzzvwkjg" method="POST">
+    <label for="name">Name</label><br/>
+    <input type="text" id="name" name="name" required><br/><br/>
+    <label for="email">Email</label><br/>
+    <input type="email" id="email" name="_replyto" required><br/><br/>
+    <label for="message">Message</label><br/>
+    <textarea id="message" name="message" rows="6" required></textarea><br/><br/>
+    <button type="submit" class="btn btn--primary">Send</button>
+  </form>
+
+</div>
 
 </div>
