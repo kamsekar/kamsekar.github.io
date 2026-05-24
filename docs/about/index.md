@@ -32,6 +32,8 @@ permalink: /about/
 ---
 
 ## Recognition
+- *[Jožef Stefan Golden Emblem Prize](https://www.ki.si/en/news/zlati-znak-jozefa-stefana-2026-dr-ani-rebeki-kamsek/) (2026)* — Jožef Stefan Institute.
+- *[Pregl award for an exceptional doctoral thesis](https://www.ki.si/novica/podelitev-preglovih-nagrad-za-izjemno-doktorsko-delo-1/) (2025)* — National Institute of Chemistry.
 - *[Best personal academic website - Accessible SciComm award](https://theacademicdesigner.com/2025/winners-of-the-best-personal-academic-websites-contest-2025/) (2025)* — The Academic Designer LLC.
 - *[Best natural science lecture](https://www.slovenska-matica.si/rezultati-natecajev-za-mlade-ob-160-letnici-slovenske-matice/) (2024)* — publishing house Slovenska matica and The
 Association for Technical Culture of Slovenia.
