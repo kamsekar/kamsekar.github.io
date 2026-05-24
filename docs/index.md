@@ -4,6 +4,29 @@ title: "Ana Rebeka Kamšek – Hydrogen, materials, data"
 permalink: /
 description: "Researcher bridging hydrogen tech, materials science, and data visualization. Explore my work in academic research and science communication."
 ---
+
+<div style="display: flex; flex-wrap: wrap; gap: 1.5rem; align-items: center; margin-bottom: 2rem;">
+  <!-- Left column (slightly wider) -->
+  <div style="flex: 1.4; min-width: 280px;">
+    <p>Welcome! I’m a researcher working at the intersection of <b>hydrogen technologies</b>, <b>materials science</b>, and <b>data science</b>. I enjoy translating complex scientific concepts into visuals, explainers, and content for diverse audiences, from academics to the general public. </p>
+     <p>I work at the <a href="https://www.imt.si/en/">Institute of Metals and Technology</a> in Ljubljana, Slovenia. </p>
+    <p>The main motivation behind my research is driving the progress of technologies that can benefit our society long-term. When not researching, I recharge by climbing, traveling, and learning foreign languages. </p>   
+    <p><strong>Where to find me</strong>:<br>
+      <a href="https://scholar.google.com/citations?user=lhbwej0AAAAJ">Google Scholar</a> •
+      <a href="https://orcid.org/0009-0008-6247-3256">ORCID</a> •
+      <a href="https://github.com/kamsekar">GitHub</a> •
+      <a href="https://www.linkedin.com/in/ana-rebeka-kamsek/">LinkedIn</a>
+    </p>
+  </div>
+
+  <!-- Right column -->
+  <div style="flex: 1; min-width: 280px;">
+    <img src="/assets/img/photo-square.jpg"
+     alt="A photograph of Ana Rebeka Kamšek, sitting in a plane engine."
+     style="width: min(75vw, 400px); aspect-ratio: 1 / 1; object-fit: cover; border-radius: 50%; display: block; margin-inline: auto;">
+  </div>
+</div>
+
 <div class="u-hero"
      style="padding-block-start: clamp(1rem, 2.5vw, 2rem);
             padding-top: clamp(1rem, 2.5vw, 2rem);
@@ -50,10 +73,6 @@ description: "Researcher bridging hydrogen tech, materials science, and data vis
   <p>
     If you have questions about my work, see a way to collaborate, or are interested in thoughtful
     science outreach (or just want to say hi), please get in touch!
-    <a href="https://www.linkedin.com/in/ana-rebeka-kamsek/" target="_blank" rel="noopener">
-      LinkedIn
-    </a>
-    is also a good way to reach me.
   </p>
 
   <form action="https://formspree.io/f/xzzvwkjg" method="POST">
