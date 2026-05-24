@@ -9,7 +9,7 @@ Here is a selection of recent scientific papers I (co-)authored. A complete list
 ---
 <h2>On the crystal structure of nanoparticles</h2>
 
-<u>Platinum-copper nanoparticles</u> catalyze the oxygen reduction reaction in a hydrogen fuel cell. Understanding which structural features do and don’t influence activity or stability helps focus research on changes that truly improve catalyst performance. 
+Modern electrocatalysts for the oxygen reduction reaction in a hydrogen fuel cell are commonly composed of <u>platinum-alloy nanoparticles on a carbon support</u>. Their varied structures mean they degrade differently under operating conditions. Understanding which structural features do and don’t influence activity or stability helps focus research on changes that truly improve catalyst performance. 
 
 At the atomic scale, platinum and copper atoms may be randomly mixed or arranged in an <u>ordered structure</u>. We found that ordered sites near the particle surface, where the reaction occurs, are more stable during electrochemical activation that prepares the catalyst for long-term use. This was made possible by a new approach that combines <u>identical-location 4D-STEM with unsupervised learning</u>.
 
@@ -29,9 +29,9 @@ Within the ordered phase, <u>defects</u> known as anti-phase boundaries can form
 
 ---
 
-Linking structural changes to performance helps guide the design of more durable, efficient fuel-cell catalysts. Modern electrocatalysts for catalyzing the oxygen reduction reaction are commonly made up of <u>platinum-alloy nanoparticles on a carbon support</u>. Their varied structures mean they degrade differently under operating conditions. We showed how <u>identical-location microscopy</u> tracks their local history, which complements the bulk information gathered using other methods such as electrochemical measurements. 
+We showed how <u>identical-location microscopy</u> tracks the local history of platinum-cobalt nanoparticles at different scales, which complements the bulk information obtained with other methods like electrochemical measurements. 
 
-The first paper is a comparison of commercial electrocatalysts for the oxygen reduction reaction of acidic media, and the second is a detailed investigation of platinum-cobalt nanoparticles at the atomic scale. 
+The first paper compares commercial electrocatalysts for the oxygen reduction reaction in acidic media, and the second is a detailed investigation of platinum-cobalt nanoparticles at the atomic scale. 
 
 <span class="reference">
 **Resolving the nanoparticles' structure–property relationships at the atomic level: a study of Pt-based electrocatalysts**. 
