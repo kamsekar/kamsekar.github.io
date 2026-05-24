@@ -46,6 +46,26 @@ My research focuses on **nanostructured electrocatalysts** for sustainable energ
   </div>
 </div>
 
+<hr>
+
+<h2>Research experience</h2>
+
+<ul>
+  <li>
+    <em>Postdoctoral researcher</em> (2026–present), Institute of Metals and Technology, Ljubljana, Slovenia.
+  </li>
+
+  <li>
+    <em>Postdoctoral researcher</em> (2025–2026), National Institute of Chemistry, Ljubljana, Slovenia.
+  </li>
+
+  <li>
+    <em>Research assistant</em> (2021–2025), National Institute of Chemistry, Ljubljana, Slovenia.
+  </li>
+</ul>
+
+<hr>
+
 <h2>Recognition</h2>
 
 <ul>
