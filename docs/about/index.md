@@ -4,22 +4,6 @@ title: "About"
 permalink: /about/
 ---
 
-<div style="display: flex; flex-wrap: wrap; gap: 1.5rem; align-items: center; margin-bottom: 2rem;">
-  <!-- Left column (slightly wider) -->
-  <div style="flex: 1.4; min-width: 280px;">
-    <p>If any of that resonates, please explore my page and get in touch (see below)!</p>
-  </div>
-
-  <!-- Right column -->
-  <div style="flex: 1; min-width: 280px;">
-    <img src="/assets/img/photo-square.jpg"
-     alt="A photograph of Ana Rebeka Kamšek, sitting in a plane engine."
-     style="width: min(75vw, 400px); aspect-ratio: 1 / 1; object-fit: cover; border-radius: 50%; display: block; margin-inline: auto;">
-  </div>
-</div>
-
----
-
 ## Skills
 - **Computers:** Python, R, data analysis and visualisation, machine learning, image analysis.
 - **Communication:** public talks, science writing, and collaboration in interdisciplinary teams.
