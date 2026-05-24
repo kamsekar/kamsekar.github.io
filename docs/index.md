@@ -33,7 +33,7 @@ description: "Researcher bridging hydrogen tech, materials science, and data vis
 
 
   <!-- Bottom text -->
-<div class="u-hero__below">
+<div class="u-hero__below" style="margin-top: 2rem;">
 
   <h2>Hydrogen, materials, data</h2>
 
