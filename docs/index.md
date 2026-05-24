@@ -9,7 +9,7 @@ description: "Researcher bridging hydrogen tech, materials science, and data vis
   <!-- Left column -->
   <div style="flex: 1.4; min-width: 280px;">
     <p>Welcome! I’m a researcher working at the intersection of <b>hydrogen technologies</b>, <b>materials science</b>, and <b>data science</b>. I enjoy translating complex scientific concepts into content for diverse audiences, from academics to the general public. </p>
-     <p>I work at the <a href="https://www.imt.si/en/">Institute of Metals and Technology</a> in Ljubljana, Slovenia. </p>
+     <p>I work at the <a href="https://www.imt.si/en/">Institute of Metals and Technology</a>. </p>
     <p>The main motivation behind my research is driving the progress of technologies that can benefit our society long-term. When not researching, I recharge by climbing, traveling, and learning foreign languages. </p>   
     <p><strong>Where to find me</strong>:<br>
       <a href="https://scholar.google.com/citations?user=lhbwej0AAAAJ">Google Scholar</a> •
