@@ -23,7 +23,7 @@ description: "Researcher bridging hydrogen tech, materials science, and data vis
   <div style="flex: 1; min-width: 250px;">
     <img src="/assets/img/IMG_6649q-2_sq.jpg"
      alt="A portrait photograph of Ana Rebeka Kamšek."
-     style="width: min(75vw, 400px); aspect-ratio: 1 / 1; object-fit: cover; border-radius: 50%; display: block; margin-inline: auto;">
+     style="width: min(75vw, 300px); aspect-ratio: 1 / 1; object-fit: cover; border-radius: 50%; display: block; margin-inline: auto;">
   </div>
 </div>
 
