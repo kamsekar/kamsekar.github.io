@@ -7,6 +7,7 @@ permalink: /publications/
 Here is a selection of recent scientific papers I (co-)authored. A complete list can be found on my [Google Scholar](https://scholar.google.com/citations?user=lhbwej0AAAAJ). All code that led to published works can be found on my [GitHub](https://github.com/kamsekar).
 
 ---
+<h2>On the crystal structure of nanoparticles</h2>
 
 <u>Platinum-copper nanoparticles</u> catalyze the oxygen reduction reaction in a hydrogen fuel cell. Understanding which structural features do and don’t influence activity or stability helps focus research on changes that truly improve catalyst performance. 
 
@@ -28,16 +29,6 @@ Within the ordered phase, <u>defects</u> known as anti-phase boundaries can form
 
 ---
 
-Atomically resolved microscopy images hold far more detail than the human eye can process. This review explains how computer <u>algorithms</u> can unlock that hidden information, providing objective insights and enabling the <u>analysis of electrocatalyst image datasets</u> too large or too tricky for manual work.
-
-<span class="reference">
-**Bringing into play automated electron microscopy data processing for understanding nanoparticulate electrocatalysts’ structure–property relationships**.
-  <u>A.R. Kamšek</u>, F. Ruiz-Zepeda, A. Pavlišič, A. Hrnjić, N. Hodnik. *Current Opinion in Electrochemistry*, **35**, 101052, 2022.
-  [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.coelec.2022.101052-blue)](https://doi.org/10.1016/j.coelec.2022.101052)
-</span>
-
----
-
 Linking structural changes to performance helps guide the design of more durable, efficient fuel-cell catalysts. Modern electrocatalysts for catalyzing the oxygen reduction reaction are commonly made up of <u>platinum-alloy nanoparticles on a carbon support</u>. Their varied structures mean they degrade differently under operating conditions. We showed how <u>identical-location microscopy</u> tracks their local history, which complements the bulk information gathered using other methods such as electrochemical measurements. 
 
 The first paper is a comparison of commercial electrocatalysts for the oxygen reduction reaction of acidic media, and the second is a detailed investigation of platinum-cobalt nanoparticles at the atomic scale. 
@@ -55,6 +46,17 @@ The first paper is a comparison of commercial electrocatalysts for the oxygen re
 </span>
 
 ---
+
+Atomically resolved microscopy images hold far more detail than the human eye can process. This review explains how computer <u>algorithms</u> can unlock that hidden information, providing objective insights and enabling the <u>analysis of electrocatalyst image datasets</u> too large or too tricky for manual work.
+
+<span class="reference">
+**Bringing into play automated electron microscopy data processing for understanding nanoparticulate electrocatalysts’ structure–property relationships**.
+  <u>A.R. Kamšek</u>, F. Ruiz-Zepeda, A. Pavlišič, A. Hrnjić, N. Hodnik. *Current Opinion in Electrochemistry*, **35**, 101052, 2022.
+  [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.coelec.2022.101052-blue)](https://doi.org/10.1016/j.coelec.2022.101052)
+</span>
+
+---
+<h2>What about the support?</h2>
 
 The performance of electrocatalysts with supported nanoparticles can be improved not only by optimizing the noble-metal-based nanoparticles, but also by tailoring the support. Certain supports, such as ceramics, can interact with nanoparticles in ways that improve the catalytic performance, even though the support alone is not highly catalytic.
 
@@ -79,6 +81,7 @@ These three papers are examples of how using a titanium oxynitride support creat
 </span>
 
 ---
+<h2>Beyond electrocatalysis</h2>
 
 These two papers step outside my usual focus on hydrogen technologies.
 
