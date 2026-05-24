@@ -22,6 +22,7 @@ description: "Researcher bridging hydrogen tech, materials science, and data vis
 </div>
 
 <div class="u-hero">
+<hr>
 
   <!-- Bottom text -->
 <div class="u-hero__below">
