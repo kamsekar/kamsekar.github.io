@@ -32,29 +32,6 @@ description: "Researcher bridging hydrogen tech, materials science, and data vis
             padding-top: clamp(1rem, 2.5vw, 2rem);
             align-items: start;">
 
-  <!-- Top text -->
-  <div class="u-hero__intro">
-    <p>Welcome! I’m a researcher working at the intersection of <b>hydrogen technologies</b>, <b>materials science</b>, and <b>data science</b>. I enjoy translating complex scientific concepts into visuals, explainers, and content for diverse audiences, from academics to the general public. </p>
-     <p>I work at the <a href="https://www.imt.si/en/">Institute of Metals and Technology</a> in Ljubljana, Slovenia. </p>
-    <p>The main motivation behind my research is driving the progress of technologies that can benefit our society long-term. When not researching, I recharge by climbing, traveling, and learning foreign languages. </p>   
-    <p><strong>Where to find me</strong>:<br>
-      <a href="https://scholar.google.com/citations?user=lhbwej0AAAAJ">Google Scholar</a> •
-      <a href="https://orcid.org/0009-0008-6247-3256">ORCID</a> •
-      <a href="https://github.com/kamsekar">GitHub</a> •
-      <a href="https://www.linkedin.com/in/ana-rebeka-kamsek/">LinkedIn</a>
-    </p>
-  </div>
-
-  <!-- Two images -->
-  <figure class="u-hero__left">
-    <img src="/assets/img/photo-square-closeup.jpg" alt="A photograph of Ana Rebeka Kamšek" class="u-avatar"> 
-  </figure>
-
-  <figure class="u-hero__right">
-    <img src="/assets/img/iridium-111-sq.png" alt="A graphic depiction of an iridium nanoparticle.">
-  </figure>
-
-
   <!-- Bottom text -->
 <div class="u-hero__below" style="margin-top: 2rem;">
 
