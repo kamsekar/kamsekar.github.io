@@ -5,10 +5,10 @@ permalink: /
 description: "Researcher bridging hydrogen tech, materials science, and data visualization. Explore my work in academic research and science communication."
 ---
 
-<div style="display: flex; flex-wrap: wrap; gap: 1.5rem; align-items: center; margin-bottom: 2rem;">
-  <!-- Left column (slightly wider) -->
+<div style="display: flex; flex-wrap: wrap; gap: 1.5rem; align-items: center; margin-bottom: 1rem;">
+  <!-- Left column -->
   <div style="flex: 1.4; min-width: 280px;">
-    <p>Welcome! I’m a researcher working at the intersection of <b>hydrogen technologies</b>, <b>materials science</b>, and <b>data science</b>. I enjoy translating complex scientific concepts into visuals, explainers, and content for diverse audiences, from academics to the general public. </p>
+    <p>Welcome! I’m a researcher working at the intersection of <b>hydrogen technologies</b>, <b>materials science</b>, and <b>data science</b>. I enjoy translating complex scientific concepts into content for diverse audiences, from academics to the general public. </p>
      <p>I work at the <a href="https://www.imt.si/en/">Institute of Metals and Technology</a> in Ljubljana, Slovenia. </p>
     <p>The main motivation behind my research is driving the progress of technologies that can benefit our society long-term. When not researching, I recharge by climbing, traveling, and learning foreign languages. </p>   
     <p><strong>Where to find me</strong>:<br>
@@ -27,13 +27,10 @@ description: "Researcher bridging hydrogen tech, materials science, and data vis
   </div>
 </div>
 
-<div class="u-hero"
-     style="padding-block-start: clamp(1rem, 2.5vw, 2rem);
-            padding-top: clamp(1rem, 2.5vw, 2rem);
-            align-items: start;">
+<div class="u-hero">
 
   <!-- Bottom text -->
-<div class="u-hero__below" style="margin-top: 1rem;">
+<div class="u-hero__below">
 
   <h2>Hydrogen, materials, data</h2>
 
@@ -58,7 +55,7 @@ description: "Researcher bridging hydrogen tech, materials science, and data vis
     <label for="email">Email</label><br/>
     <input type="email" id="email" name="_replyto" required><br/><br/>
     <label for="message">Message</label><br/>
-    <textarea id="message" name="message" rows="6" required></textarea><br/><br/>
+    <textarea id="message" name="message" rows="4" required></textarea><br/><br/>
     <button type="submit" class="btn btn--primary">Send</button>
   </form>
 
