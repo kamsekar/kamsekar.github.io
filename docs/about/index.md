@@ -7,9 +7,6 @@ permalink: /about/
 <div style="display: flex; flex-wrap: wrap; gap: 1.5rem; align-items: center; margin-bottom: 2rem;">
   <!-- Left column (slightly wider) -->
   <div style="flex: 1.4; min-width: 280px;">
-    <p>I’m a researcher working at the intersection of <b>hydrogen technologies</b>, <b>materials science</b>, and <b>data science</b>. I study how nanoscale structure controls catalyst performance and stability, and I enjoy translating complex results into a more accessible language. </p>
-    <p>I work at the <a href="https://www.ki.si/en/departments/d10-department-of-materials-chemistry/l10-laboratory-for-electrocatalysis/">Laboratory for Electrocatalysis</a> at the National Institute of Chemistry in Ljubljana, Slovenia. </p>
-    <p>The main motivation behind my research is driving the progress of technologies that can benefit our society long-term. When not researching, I recharge by climbing, traveling, and learning foreign languages. </p>
     <p>If any of that resonates, please explore my page and get in touch (see below)!</p>
   </div>
 
@@ -57,17 +54,3 @@ Before my Ph.D., I had a bunch of student jobs and projects. Here are some of th
 - *Ph.D. in Chemistry* (2025), University of Ljubljana. Thesis: [Crystal structure of platinum and iridium nanocomposite electrocatalysts](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=170176&lang=eng)
 - *M.Sc. in Physics* (2021), University of Ljubljana. Thesis: [Algorithms for image analysis of atomically resolved electron micrographs](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=129882&lang=eng) (in Slovene)
 - *B.Sc. in Physics* (2019), University of Ljubljana; a semester abroad at TU Berlin.
-
----
-
-If you have questions about my work, see a way to collaborate, or are interested in thoughtful science outreach (or just want to say hi), please get in touch! [LinkedIn](https://www.linkedin.com/in/ana-rebeka-kamsek/) is also a good way to reach me. 
-
-<form action="https://formspree.io/f/xzzvwkjg" method="POST">
-  <label for="name">Name</label><br/>
-  <input type="text" id="name" name="name" required><br/><br/>
-  <label for="email">Email</label><br/>
-  <input type="email" id="email" name="_replyto" required><br/><br/>
-  <label for="message">Message</label><br/>
-  <textarea id="message" name="message" rows="6" required></textarea><br/><br/>  
-  <button type="submit" class="btn btn--primary">Send</button>
-</form>
