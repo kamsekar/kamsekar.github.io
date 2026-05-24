@@ -7,7 +7,7 @@ description: "Researcher bridging hydrogen tech, materials science, and data vis
 
 <div style="display: flex; flex-wrap: wrap; gap: 1.5rem; align-items: center; margin-bottom: 1rem;">
   <!-- Left column -->
-  <div style="flex: 2; min-width: 280px;">
+  <div style="flex: 2.2; min-width: 280px;">
     <p>Welcome! I’m a researcher working at the intersection of <b>hydrogen technologies</b>, <b>materials science</b>, and <b>data science</b>. I enjoy translating complex scientific concepts into content for diverse audiences, from academics to the general public. </p>
      <p>I work at the <a href="https://www.imt.si/en/">Institute of Metals and Technology</a>. </p>
     <p>The main motivation behind my research is to drive the progress of technologies that can benefit our society in the long term. When not researching, I recharge by climbing, traveling, and learning foreign languages. </p>   
@@ -20,10 +20,10 @@ description: "Researcher bridging hydrogen tech, materials science, and data vis
   </div>
 
   <!-- Right column -->
-  <div style="flex: 1; min-width: 250px;">
+  <div style="flex: 1; min-width: 220px;">
     <img src="/assets/img/IMG_6649q-2_sq.jpg"
      alt="A portrait photograph of Ana Rebeka Kamšek."
-     style="width: min(75vw, 250px); aspect-ratio: 1 / 1; object-fit: cover; border-radius: 50%; display: block; margin-inline: auto;">
+     style="width: min(75vw, 220px); aspect-ratio: 1 / 1; object-fit: cover; border-radius: 50%; display: block; margin-inline: auto;">
   </div>
 </div>
 
