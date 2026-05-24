@@ -7,7 +7,7 @@ description: "Researcher bridging hydrogen tech, materials science, and data vis
 
 <div style="display: flex; flex-wrap: wrap; gap: 1.5rem; align-items: center; margin-bottom: 1rem;">
   <!-- Left column -->
-  <div style="flex: 1.6; min-width: 280px;">
+  <div style="flex: 2; min-width: 280px;">
     <p>Welcome! I’m a researcher working at the intersection of <b>hydrogen technologies</b>, <b>materials science</b>, and <b>data science</b>. I enjoy translating complex scientific concepts into content for diverse audiences, from academics to the general public. </p>
      <p>I work at the <a href="https://www.imt.si/en/">Institute of Metals and Technology</a>. </p>
     <p>The main motivation behind my research is to drive the progress of technologies that can benefit our society in the long term. When not researching, I recharge by climbing, traveling, and learning foreign languages. </p>   
