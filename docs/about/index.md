@@ -4,14 +4,6 @@ title: "About"
 permalink: /about/
 ---
 
-## Skills
-- **Computers:** Python, R, data analysis and visualisation, machine learning, image analysis.
-- **Communication:** public talks, science writing, and collaboration in interdisciplinary teams.
-- **Languages:** Slovene, English, German, Russian, and Croatian (conversational).
-- **Research:** experimental and data-driven materials science, especially for hydrogen technologies ([more]({{ "/research/" | relative_url }})).
-
----
-
 ## Recognition
 - *[Jožef Stefan Golden Emblem Prize](https://www.ki.si/en/news/zlati-znak-jozefa-stefana-2026-dr-ani-rebeki-kamsek/) (2026)* — Jožef Stefan Institute.
 - *[Pregl award for an exceptional doctoral thesis](https://www.ki.si/novica/podelitev-preglovih-nagrad-za-izjemno-doktorsko-delo-1/) (2025)* — National Institute of Chemistry.
