@@ -11,12 +11,6 @@ description: "Researcher bridging hydrogen tech, materials science, and data vis
     <p>Welcome! I’m a researcher working at the intersection of <b>hydrogen technologies</b>, <b>materials science</b>, and <b>data science</b>. I enjoy translating complex scientific concepts into content for diverse audiences, from academics to the general public. </p>
      <p>I work at the <a href="https://www.imt.si/en/">Institute of Metals and Technology</a>. </p>
     <p>The main motivation behind my research is to drive the progress of technologies that can benefit our society in the long term. When not researching, I recharge by climbing, traveling, and learning foreign languages. </p>   
-    <p><strong>Where to find me</strong>:<br>
-      <a href="https://scholar.google.com/citations?user=lhbwej0AAAAJ">Google Scholar</a> •
-      <a href="https://orcid.org/0009-0008-6247-3256">ORCID</a> •
-      <a href="https://github.com/kamsekar">GitHub</a> •
-      <a href="https://www.linkedin.com/in/ana-rebeka-kamsek/">LinkedIn</a>
-    </p>
   </div>
 
   <!-- Right column -->
@@ -43,7 +37,12 @@ description: "Researcher bridging hydrogen tech, materials science, and data vis
     <a href="{{ "/scicomm/" | relative_url }}">public engagement</a>,
     and this site shares some of that work.
   </p>
-
+  <p><strong>Where to find me</strong>:<br>
+      <a href="https://scholar.google.com/citations?user=lhbwej0AAAAJ">Google Scholar</a> •
+      <a href="https://orcid.org/0009-0008-6247-3256">ORCID</a> •
+      <a href="https://github.com/kamsekar">GitHub</a> •
+      <a href="https://www.linkedin.com/in/ana-rebeka-kamsek/">LinkedIn</a>
+  </p>
   <p>
     If you have questions about my work, see a way to collaborate, or are interested in thoughtful
     science outreach (or just want to say hi), please get in touch!
