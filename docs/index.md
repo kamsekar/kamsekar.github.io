@@ -31,23 +31,6 @@ description: "Researcher bridging hydrogen tech, materials science, and data vis
     <img src="/assets/img/iridium-111-sq.png" alt="A graphic depiction of an iridium nanoparticle.">
   </figure>
 
-  <!-- Bottom text (HTML links so they work inside HTML block) -->
-  <div class="u-hero__below">
-    <br>
-    <h2>Hydrogen, materials, data</h2> 
-    <p>Science and technology are fascinating, but they're often locked behind jargon and technical details. I believe in making them accessible and impactful through science communication, data visualization, and engaging digital content. I've worked in       <a href="{{ "/research/" | relative_url }}">academic research</a> and <a href="{{ "/scicomm/" | relative_url }}">public engagement</a>, and this site shares some of that work.</p>
-     <p>If you have questions about my work, see a way to collaborate, or are interested in thoughtful science outreach (or just want to say hi), please get in touch! [LinkedIn](https://www.linkedin.com/in/ana-rebeka-kamsek/) is also a good way to reach me. </p>
-       <p>
-<form action="https://formspree.io/f/xzzvwkjg" method="POST">
-  <label for="name">Name</label><br/>
-  <input type="text" id="name" name="name" required><br/><br/>
-  <label for="email">Email</label><br/>
-  <input type="email" id="email" name="_replyto" required><br/><br/>
-  <label for="message">Message</label><br/>
-  <textarea id="message" name="message" rows="6" required></textarea><br/><br/>  
-  <button type="submit" class="btn btn--primary">Send</button>
-</form></p>
-  </div>
 
   <!-- Bottom text -->
 <div class="u-hero__below">
