@@ -59,5 +59,3 @@ description: "Researcher bridging hydrogen tech, materials science, and data vis
   </form>
 
 </div>
-
-</div>
