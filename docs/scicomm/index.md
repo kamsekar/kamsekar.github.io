@@ -130,7 +130,7 @@ I created and managed the LinkedIn page of [Laboratory for Electrocatalysis - Na
   <!-- Left column -->
   <div style="flex: 1.3; min-width: 280px;">
     <p>After seeing a curious spotted pattern in the snow, Simon Čopar and I investigated its cause and wrote a short piece for
-  <b><a href="http://www.presek.si/arhiv.php?letnik=52&stevilka=3/">Presek</a></b>,
+  <b><a href="https://www.presek.si/arhiv.php?letnik=52&stevilka=3">Presek</a></b>,
   a popular science journal aimed at young natural science enthusiasts (in Slovene).
 </p>
     <p>Following publication, I gave a talk on the phenomenon at the journal’s seminar, aimed primarily at school teachers. </p>
