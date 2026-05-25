@@ -18,7 +18,7 @@ I contribute to this effort by writing articles, sharing insights on social medi
 
 ---
 
-I manage the LinkedIn page of [Laboratory for Electrocatalysis - National Institute of Chemistry](https://www.linkedin.com/company/electrocat-lab/). I post summaries of new papers, news about our work, and content that explains important concepts and methods. 
+I created and managed the LinkedIn page of [Laboratory for Electrocatalysis - National Institute of Chemistry](https://www.linkedin.com/company/electrocat-lab/) between May '25 and May '26. I posted news about our work, summaries of new papers, and content that explains important concepts and methods using text, carousels, and videos. 
 
 
 <div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: space-between;">
@@ -129,7 +129,10 @@ I manage the LinkedIn page of [Laboratory for Electrocatalysis - National Instit
 <div style="display: flex; flex-wrap: wrap; gap: 1.5rem; align-items: center; margin-bottom: 2rem;">
   <!-- Left column -->
   <div style="flex: 1.3; min-width: 280px;">
-    <p>After seeing a curious spotted pattern in the snow, Simon Čopar and I investigated its cause and wrote a short piece for <b>Presek, a popular science journal</b> aimed at young natural science enthusiasts (in Slovene). </p>
+    <p>After seeing a curious spotted pattern in the snow, Simon Čopar and I investigated its cause and wrote a short piece for
+  <b><a href="http://www.presek.si/arhiv.php?letnik=52&stevilka=3/">Presek</a></b>,
+  a popular science journal aimed at young natural science enthusiasts (in Slovene).
+</p>
     <p>Following publication, I gave a talk on the phenomenon at the journal’s seminar, aimed primarily at school teachers. </p>
     <p style="font-size: 0.85em; color: #333;">
       <b>Snežne pike</b>. <u>A.R. Kamšek</u>, S. Čopar. <i>Presek</i>, <b>52</b> (3), 26-27, 2025. 
@@ -140,9 +143,9 @@ I manage the LinkedIn page of [Laboratory for Electrocatalysis - National Instit
        style="text-decoration: none; display: inline-block; line-height: 0;">
       <img src="https://img.shields.io/badge/View%20Post-LinkedIn-blue" alt="LinkedIn Button">
     </a>
-    <a href="http://www.presek.si/arhiv.php?letnik=52&stevilka=3/"
+    <a href="https://www.dlib.si/details/URN:NBN:SI:DOC-CRR9NNJY"
        style="text-decoration: none; display: inline-block; line-height: 0;">
-      <img src="https://img.shields.io/badge/Link-Journal%20website-%23AB895F" alt="Website Button">
+      <img src="https://img.shields.io/badge/Link-Journal%20article-%23a7ab5f" alt="Article Button">
     </a>
     <a href="https://www.dmfa.si/ODrustvu/NovicaPrikaz.aspx?itemid=892"
        style="text-decoration: none; display: inline-block; line-height: 0;">
