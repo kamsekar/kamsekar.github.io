@@ -106,7 +106,7 @@ I created and managed the LinkedIn page of [Laboratory for Electrocatalysis - Na
           style="text-decoration: none; display: inline-block; line-height: 0;">
           <img src="https://img.shields.io/badge/Link-Lecture%20recording-%23AB895F" alt="Lecture recording">
         </a>
-        <a href="https://www.slovenska-matica.si/rezultati-natecajev-za-mlade-ob-160-letnici-slovenske-matice/"
+        <a href="https://slovenska-matica.si/natecaji/natecaj-za-mlade-ob-160-letnici-slovenske-matice/"
          style="text-decoration: none; display: inline-block; line-height: 0;">
           <img src="https://img.shields.io/badge/Link-Award%20announcement-%23AB895F" alt="Award announcement">
         </a>
