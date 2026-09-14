@@ -9,9 +9,9 @@ Here is a selection of recent scientific papers I (co-)authored. A complete list
 ---
 <h2>On the crystal structure of nanoparticles</h2>
 
-Modern electrocatalysts for the oxygen reduction reaction in a hydrogen fuel cell are commonly composed of <u>platinum-alloy nanoparticles on a carbon support</u>. Their varied structures mean they degrade differently under operating conditions. Understanding which structural features do and don’t influence activity or stability helps focus research on what truly improves catalyst performance. 
+Modern electrocatalysts for the oxygen reduction reaction in a hydrogen fuel cell are commonly composed of <u>platinum-alloy nanoparticles on a carbon support</u>. They have different structures and don't all degrade the same. Understanding what does or doesn't influence activity or stability helps us focus on what truly improves catalyst performance. 
 
-At the atomic scale, platinum and copper atoms may be randomly mixed or arranged in an <u>ordered structure</u>. We found that ordered sites near the particle surface, where the reaction occurs, are more stable when preparing the catalyst for long-term use. This was possible with a new approach that combines <u>identical-location 4D-STEM with unsupervised learning</u>.
+At the atomic scale, platinum and copper atoms may be randomly mixed or arranged in an <u>ordered structure</u>. We found that ordered sites near the particle surface, where the reaction occurs, are more stable when preparing the catalyst for long-term use. This was possible by combining <u>identical-location 4D-STEM with unsupervised learning</u>.
 
 <span class="reference">
 **Structure–Stability Relationships in Pt-Alloy Nanoparticles Using Identical-Location Four-Dimensional Scanning Transmission Electron Microscopy and Unsupervised Machine Learning**.<br>
@@ -45,9 +45,16 @@ The first paper compares commercial electrocatalysts for the oxygen reduction re
   [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.electacta.2021.138513-blue)](https://doi.org/10.1016/j.electacta.2021.138513) [![Code](https://img.shields.io/badge/Code-Repository-063970)](https://github.com/kamsekar/Atomically-resolved-images)
 </span>
 
+Scanning electron microscopy was used here to image more realistic catalyst layers, including very small nanoparticles. The presence of a membrane resulted in more moderate catalyst degradation.
+
+<span class="reference">
+**Realistic fuel cell catalyst degradation via automated identical location SEM-PSD analysis with the GDE half-cell setup**.<br>
+  M. Kostelec et al, *ACS Catalysis*, **16** (12), 11207-11218, 2026.<br>
+  [![DOI](https://img.shields.io/badge/DOI-10.1021%2Facscatal.6c01369-blue)](https://doi.org/10.1021/acscatal.6c01369) [![Link](https://img.shields.io/badge/Link-Research%20Highlight-%23a7ab5f)](https://www.ki.si/en/news/napredna-mikroskopija-za-vrednotenje-realisticne-degradacije-gorivnih-celic/)
+</span>
 ---
 
-Atomically resolved microscopy images hold far more detail than the human eye can process. This review explains how computer <u>algorithms</u> can unlock that hidden information, providing objective insights and enabling the <u>analysis of electrocatalyst image datasets</u> too large or too tricky for manual work.
+Atomically resolved images hold more detail than the human eye can process. This review explains how <u>algorithms</u> can unlock that hidden information, enabling the objective <u>image analysis of datasets</u> too large or too tricky for manual work.
 
 <span class="reference">
 **Bringing into play automated electron microscopy data processing for understanding nanoparticulate electrocatalysts’ structure–property relationships**.<br>
@@ -60,7 +67,7 @@ Atomically resolved microscopy images hold far more detail than the human eye ca
 
 The performance of electrocatalysts with supported nanoparticles can be improved not only by optimizing the noble-metal-based nanoparticles, but also by tailoring the support. Certain supports, such as ceramics, can interact with nanoparticles in ways that improve the catalytic performance.
 
-These three papers are examples of how using a titanium oxynitride support created beneficial <u>metal–support interactions</u> for reactions in hydrogen fuel cells and water electrolyzers.
+These two papers are examples of how using a titanium oxynitride support created beneficial <u>metal–support interactions</u> for reactions in hydrogen fuel cells and water electrolyzers.
 
 <span class="reference">
 **Metal–support interaction between titanium oxynitride and Pt nanoparticles enables efficient low-Pt-loaded high-performance electrodes at relevant oxygen reduction reaction conditions**.<br>
@@ -74,20 +81,10 @@ These three papers are examples of how using a titanium oxynitride support creat
   [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.cej.2025.164204-blue)](https://doi.org/10.1016/j.cej.2025.164204) [![Link](https://img.shields.io/badge/Link-Research%20Highlight-%23a7ab5f)](https://www.ki.si/en/news/manj-plemenitih-kovin-vec-vodika-v-alkalnem-elektrolitu/)
 </span>
 
-<span class="reference">
-**Iridium Stabilizes Ceramic Titanium Oxynitride Support for Oxygen Evolution Reaction**.<br> 
-  G. Koderman Podboršek et al, *ACS Catalysis*, **12** (24), 15135–15145, 2022.<br>
-  [![DOI](https://img.shields.io/badge/DOI-10.1021%2Facscatal.2c04160-blue)](https://doi.org/10.1021/acscatal.2c04160) [![Link](https://img.shields.io/badge/Link-Research%20Highlight-%23a7ab5f)](https://www.ki.si/en/news/povecanje-stabilnosti-keramicnega-titanovega-oksinitridnega-nosilca-med-elektrolizo-vode-preko-iridija/)  [![Code](https://img.shields.io/badge/Code-Repository-063970)](https://github.com/kamsekar/Particle-segmentation)
-</span>
-
 ---
-<h2>Beyond electrocatalysis</h2>
+<h2>Carbon capture</h2>
 
-These two papers step outside my usual focus on hydrogen technologies.
-
-The first explores <u>electrocatalytic CO₂ reduction</u>, a carbon capture and utilization technology. Copper catalysts speed up the reaction, but their structural changes during operation affect long-term performance.
-
-The second examines Ni-rich NMC, a commercial <u>battery</u> cathode material. It proposes a methodology for reliable, accurate impedance measurements of active electrodes and meaningful interpretation of the results.
+This paper explores <u>electrocatalytic CO₂ reduction</u>, a carbon capture and utilization technology. Copper catalysts speed up the reaction, but their structural changes during operation affect long-term performance.
 
 <span class="reference">
 **Deactivation of copper electrocatalysts during CO₂ reduction occurs via dissolution and selective redeposition mechanism**.<br>
@@ -95,8 +92,3 @@ The second examines Ni-rich NMC, a commercial <u>battery</u> cathode material. I
   [![DOI](https://img.shields.io/badge/DOI-10.1039%2FD4TA06466F-blue)](https://doi.org/10.1039/D4TA06466F) [![Link](https://img.shields.io/badge/Link-Research%20Highlight-%23a7ab5f)](https://www.ki.si/en/news/deactivation-of-copper-during-electrochemical-c02-conversion/)
 </span>
 
-<span class="reference">
-**Novel Methodology of General Scaling-Approach Normalization of Impedance Parameters of Insertion Battery Electrodes – Case Study on Ni-Rich NMC Cathode: Part I. Experimental and Theoretical Insights**.<br>
-  M. Firm et al, *Journal of The Electrochemical Society*, **171** (12), 120540, 2024.<br>
-  [![DOI](https://img.shields.io/badge/DOI-10.1149%2F1945--7111%2Fada061-blue)](https://doi.org/10.1149/1945-7111/ada061)
-</span>
