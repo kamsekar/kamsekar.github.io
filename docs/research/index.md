@@ -27,10 +27,10 @@ My research focuses on **nanomaterials** for sustainable energy tehnologies, par
 <div style="display: flex; flex-wrap: wrap; gap: 1.5rem; align-items: flex-start; margin-bottom: 2rem;">
   <!-- Left column: heading + text -->
   <div style="flex: 2.5; min-width: 280px;">
-    <h2 id="methods" style="margin: 0 0 .5rem 0;">Methods</h2>
     <p>A significant part of my work involves <b>automated image and data analysis</b> to extract quantitative insights from large datasets.</p>
     <p>I work with experts to combine <b>advanced electron microscopy</b>, including identical-location and 4D scanning transmission electron microscopy (IL-STEM, 4D-STEM), with <b>X-ray diffraction (XRD)</b> and <b>electrochemical testing</b> (TF-RDE, modified floating electrode).</p>
     <p>By uniting <b>materials</b> and <b>data science</b>, my research aims to enable a rational design of next-generation materials for a sustainable hydrogen economy and other advanced metal-based materials.</p>
+    <p>I lead a research project on scaling up identical-location microscopy and automating image analysis, hosted at the Institute of Metals and Technology with ReCatalyst d.o.o. as an industry partner. Co-financed by the European Union.</p>
   </div>
 
   <!-- Right column: image (≤60% of screen on phones, centered; height capped to avoid tall gaps) -->
@@ -101,7 +101,7 @@ My research focuses on **nanomaterials** for sustainable energy tehnologies, par
 
   <li>
     <em>
-      <a href="https://www.slovenska-matica.si/rezultati-natecajev-za-mlade-ob-160-letnici-slovenske-matice/">
+      <a href="https://slovenska-matica.si/natecaji/natecaj-za-mlade-ob-160-letnici-slovenske-matice/">
         Best natural science lecture
       </a>
       (2024)
@@ -171,7 +171,7 @@ My research focuses on **nanomaterials** for sustainable energy tehnologies, par
 
 <ul>
   <li>
-    <em>Ph.D. in Chemistry</em> (2025), University of Ljubljana.<br>
+    <em>Ph.D. in Chemistry</em> (2025), University of Ljubljana (<i>cum laude</i>).<br>
     Thesis:
     <a href="https://repozitorij.uni-lj.si/IzpisGradiva.php?id=170176&lang=eng">
       Crystal structure of platinum and iridium nanocomposite electrocatalysts
