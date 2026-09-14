@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 ---
 
-My research focuses on **nanostructured electrocatalysts** for sustainable energy conversion, particularly in **proton exchange membrane (PEM) water electrolyzers** and **fuel cells**. 
+My research focuses on **nanomaterials** for sustainable energy tehnologies, particularly electrocatalysts for **green hydrogen production** and **hydrogen fuel cells**. 
 
 <div style="display: flex; flex-wrap: wrap; gap: 1.5rem; align-items: center; margin-bottom: 2rem;">
   <!-- Left column (slightly wider) -->
@@ -16,8 +16,8 @@ My research focuses on **nanostructured electrocatalysts** for sustainable energ
   
   <!-- Right column -->
   <div style="flex: 1.8; min-width: 280px;">
-    <p>These devices rely on catalysts based on precious metals such as <b>platinum</b> (Pt) and <b>iridium</b> (Ir), whose scarcity and cost drive the need for more efficient, durable, and resource-lean designs.</p>
-    <p>I investigate the <b>structure–property relationships</b> of Pt- and Ir-based nanoparticle catalysts on high-surface-area supports.</p>
+    <p>These devices rely on catalysts based on precious metals such as <b>platinum</b> (Pt) and <b>iridium</b> (Ir), whose scarcity and cost drive the need for more efficient and durable materials.</p>
+    <p>I investigate the relationships between their structure and their properties, and I develop new methods to do so.</p>
     <p>Atomic-scale structure has a profound impact on catalytic activity and stability. Understanding it is essential for designing catalysts that meet industrial performance and lifetime requirements.</p>
     <p>See the selected <a href="/publications/">publications</a> for more details.</p>
   </div>
@@ -28,9 +28,9 @@ My research focuses on **nanostructured electrocatalysts** for sustainable energ
   <!-- Left column: heading + text -->
   <div style="flex: 2.5; min-width: 280px;">
     <h2 id="methods" style="margin: 0 0 .5rem 0;">Methods</h2>
-    <p>A significant part of my work involves <b>automated image and diffraction pattern analysis</b> to extract quantitative insights from large datasets.</p>
+    <p>A significant part of my work involves <b>automated image and data analysis</b> to extract quantitative insights from large datasets.</p>
     <p>I work with experts to combine <b>advanced electron microscopy</b>, including identical-location and 4D scanning transmission electron microscopy (IL-STEM, 4D-STEM), with <b>X-ray diffraction (XRD)</b> and <b>electrochemical testing</b> (TF-RDE, modified floating electrode).</p>
-    <p>By uniting <b>materials</b> and <b>data science</b>, my research aims to provide a bottom-up understanding of catalyst performance and degradation, enabling the rational design of next-generation electrocatalysts for a sustainable hydrogen economy.</p>
+    <p>By uniting <b>materials</b> and <b>data science</b>, my research aims to enable a rational design of next-generation materials for a sustainable hydrogen economy and other advanced metal-based materials.</p>
   </div>
 
   <!-- Right column: image (≤60% of screen on phones, centered; height capped to avoid tall gaps) -->
