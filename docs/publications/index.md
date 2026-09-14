@@ -9,7 +9,7 @@ Here is a selection of recent scientific papers I (co-)authored. A complete list
 ---
 <h2>On the crystal structure of nanoparticles</h2>
 
-Modern electrocatalysts for the oxygen reduction reaction in a hydrogen fuel cell are commonly composed of <u>platinum-alloy nanoparticles on a carbon support</u>. They have different structures and don't all degrade the same. Understanding what does or doesn't influence activity or stability helps us focus on what truly improves catalyst performance. 
+Modern electrocatalysts for the oxygen reduction reaction in a hydrogen fuel cell are commonly composed of <u>platinum-alloy nanoparticles on a carbon support</u>. Understanding what does or doesn't influence activity or stability helps us focus on what truly improves them. 
 
 At the atomic scale, platinum and copper atoms may be randomly mixed or arranged in an <u>ordered structure</u>. We found that ordered sites near the particle surface, where the reaction occurs, are more stable when preparing the catalyst for long-term use. This was possible by combining <u>identical-location 4D-STEM with unsupervised learning</u>.
 
@@ -28,10 +28,11 @@ A.R. Kamšek et al, *Materials Today Nano*, **23**, 100377, 2023.<br>
 </span>
 
 ---
+<h2>Microscopy in focus</h2>
 
 We showed how <u>identical-location microscopy</u> tracks the local history of platinum-cobalt nanoparticles, which complements the bulk information from other methods like electrochemical measurements. 
 
-The first paper compares commercial electrocatalysts for the oxygen reduction reaction in acidic media, and the second is a detailed investigation of platinum-cobalt nanoparticles at the atomic scale. 
+The first paper compares commercial electrocatalysts for the oxygen reduction reaction in acidic media, and the second is a detailed STEM investigation of platinum-cobalt nanoparticles at the atomic scale. 
 
 <span class="reference">
 **Resolving the nanoparticles' structure–property relationships at the atomic level: a study of Pt-based electrocatalysts**.<br>
@@ -52,6 +53,7 @@ Scanning electron microscopy was used here to image more realistic catalyst laye
   M. Kostelec et al, *ACS Catalysis*, **16** (12), 11207-11218, 2026.<br>
   [![DOI](https://img.shields.io/badge/DOI-10.1021%2Facscatal.6c01369-blue)](https://doi.org/10.1021/acscatal.6c01369) [![Link](https://img.shields.io/badge/Link-Research%20Highlight-%23a7ab5f)](https://www.ki.si/en/news/napredna-mikroskopija-za-vrednotenje-realisticne-degradacije-gorivnih-celic/)
 </span>
+
 ---
 
 Atomically resolved images hold more detail than the human eye can process. This review explains how <u>algorithms</u> can unlock that hidden information, enabling the objective <u>image analysis of datasets</u> too large or too tricky for manual work.
